@@ -1,70 +1,75 @@
 <template>
-	<div>
-		<div class="banner">
-			<img src="../assets/image/heart.png" alt="" />
-			<h3>全部专题   </h3>   
-			<h4>共有{{specials.length}}个文章</h4>
-		</div>
-		<div class="container">
-			<div class="row" v-for="(item,index) in specials" :key="index">
-				<div class="col-4"><img :src="item.banner" alt=""></div>
-				<div class="col-8">
-					<h3>{{ item.title}}</h3>
-					<p class="meta">{{ item.updated}} 更新，{{ item.viewCount }}次浏览</p>
-					<p class="introduction">{{ item.introduction }}</p>
-					<span v-for="(section,index) in item.sections" :key="index" class="section">
-						{{ section.sectionTitle }}
-					</span>
-				</div>
+	<div class="body">
+	<div class="banner">
+		<h1>全部专题</h1>
+		<p>共有{{recommoned.length}}个专题</p>
+	</div>
+	<div class="container">
+		<div class="row" v-for="(item,index) in recommoned" :key="index">
+			<div class="col-4">
+			<img :src="item.banner" alt=""></div>
+			<div class="col-8">
+				<h3>{{ item.title}}</h3>
+				<small>{{item.introduction}}</small>
+				<p class="meta">{{ item.updated}} 更新，{{ item.viewCount }}次浏览</p>
+				<span v-for="(section,index) in item.sections" :key="index" class="section">
+					{{ section.sectionTitle }}
+				</span>
 			</div>
 		</div>
+	</div>
 	</div>
 </template>
 
 <script>
-export default{
-	name:'special',
-	data(){
-		return{
-			specials:[]
-		};
-	},
-	created() {
-		this.axios.get('http://localhost:8080/api/special/all').then(res => {
-			console.log(res.data.data.length);
-			this.Specials = res.data.data;
-		});
-	}
-};
+	export default {
+		name: 'recommoned',
+		// data一定要是个函数
+		data() {
+			return {
+				recommoned: []
+			};
+		},
+		created() {
+			this.axios.get('http://localhost:8080/api/special/all').then(res => {
+				
+				this.recommoned = res.data.data;
+			});
+		}
+	};
 </script>
-
 <style lang="scss" scoped>
-	h3{
-		color: #1a1a1a;
-		font-size: 30px;
+	.body{
+		background-color: #f6f6f6;
 	}
-	h4{
-		color: #a8b2b4;
-		font-size: 20px;
-	}
+	
 	.banner {
-		width: 90%;
 		margin-bottom: 10px;
 		margin-top: 80px;
-		height: 100px;
+		height: 80px;
 		border: 1px solid #d6d6d6;
 		box-shadow: 2px 5px 5px #ddd;
-		padding-left: 10%;
 		display: flex;
 		align-items: center;
-		img {
-			height: 60%;
-		}
+	}
+	h1{
+		color: #0084ff;
+	}
+	.text{
+	margin-top: 32px;	
+	color: #000000;
+	font-size: 30px;
+	}
+	.router{
+		text-decoration: none;
 	}
 	.container{
 		overflow: auto;
 		margin: 0 auto;
+		margin-top: 50px;
 		width: 80%;
+		background-color :#ffffff;
+		font-size: 25px;
 		.row{
 			background-color: #ffffff;
 			display: flex;
@@ -86,9 +91,5 @@ export default{
 				margin-left: 30px;
 			}
 		}
-	}
-	.introduction{
-		font-size: 20px;
-		color: #5c5e5c;
 	}
 </style>

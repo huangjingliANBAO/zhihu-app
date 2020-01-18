@@ -5,8 +5,7 @@
 				<ul>
 				  <li><router-link to="/home">首页</router-link></li>
 				  <li><router-link to="/explore">发现</router-link></li>
-				  <li><router-link to="/question/waiting">等你来答</router-link></li>
-				
+				  <li><router-link to="/question/waiting">等你来答</router-link></li>				
 				  <li><router-link to="/login">登录</router-link></li>
 			</ul>
 
@@ -14,6 +13,7 @@
 		</div>
 		<!-- 二级路由入口 -->
 		<router-view />
+		
 	</div>
 </template>
 

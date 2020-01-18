@@ -7,6 +7,7 @@
 		<li><router-link to="/hot" class="router"><p class="text">热榜</p></router-link></li>
 		</ul>
 	</div>
+	
 	<div class="container">
 		<div class="row" v-for="(item,index) in recommoned" :key="index">
 			<div class="col-4">
@@ -26,13 +27,13 @@
 
 <script>
 	export default {
-		name: 'recommoned',
-		// data一定要是个函数
+		name: 'recommoned',		
 		data() {
 			return {
 				recommoned: []
 			};
 		},
+	
 		created() {
 			this.axios.get('http://localhost:8080/api/special').then(res => {
 				console.log(res);
