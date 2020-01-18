@@ -9,6 +9,7 @@ import Follow from '../views/Follow.vue'
 import Hot from '../views/Hot.vue'
 import QuestionWaiting from '../views/QuestionWaiting.vue'
 import Login from '../views/Login.vue'
+import Roundtable from '../views/Roundtable.vue'
 
 Vue.use(VueRouter)
 
@@ -33,6 +34,7 @@ const routes = [
  				path: 'recommoned',
  				component: () => import('../views/Recommoned.vue')
  			},
+			
  			{
  				path: 'follow',
  				component: () => import('../views/Follow.vue')
@@ -51,6 +53,10 @@ const routes = [
  		path: 'special/all',
  		component: () => import('../views/Special.vue')
  	},
+	{
+		path: 'roundtable/all',
+		component: () => import('../views/Roundtable.vue')
+	},	
  	{
  		path: 'question/waiting',
  		component: () => import('../views/QuestionWaiting.vue')

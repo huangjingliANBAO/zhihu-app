@@ -1,14 +1,14 @@
 <template>
 	<div class="body">
-		<div class="banner">
+		
+		<div class="container">
+			<div class="banner">
 			<img src="../assets/image/special.png" />
 		</div>
-		<div class="container">
 			<div class="row">
-				<div class="col-5" v-for="(item,index) in recommoned" :key="index">
+				<div class="col-5" v-for="(item,index) in special" :key="index">
 					<img :src="item.banner" />
-					<h1>{{item.title}}</h1>
-					<button>关注专题</button>
+					<h1>{{item.title}}</h1>					
 					<h4>{{item.introduction}}</h4>
 					<p>更新{{item.updated}}...{{item.viewCount}}浏览...{{item.followersCount}}关注</p>					
 				</div>
@@ -18,24 +18,50 @@
 					<router-link to="/special/all" style="color: #8590a6; font-size: 30px; text-decoration: none;">查看更多专题 ></router-link>
 				</button>
 			</div>
+			
+			
+			<div>
+				<h1>圆桌讨论</h1>
+			</div>
+			
+			
+			<div class="row">
+				<div class="col-5" v-for="(item,index) in roundTable" :key="index">
+					<img :src="item.banner" style="width: 545px; height: 280px;" />
+					<h1>{{item.name}}</h1>
+					<a href="#">{{item.urlToken}}</a>
+					<p>{{item.includeCount}}位嘉宾参与...{{item.visitsCount}}人关注</p>
+					<hr />
+				</div>
+			</div>
+			
+			<div align="center">				
+				<button style="border-radius: 25px; height: 62px; background-color: #ffffff; ">
+					<router-link to="/roundTable/all" style="color: #8590a6; font-size: 30px; text-decoration: none;">查看更多圆桌></router-link>
+				</button>
+			</div>
+			
 		</div>
 
 	</div>
 </template>
 
 <script>
-	export default {
-		name: 'recommoned',
+	export default {		
 		data() {
 			return {
-				recommoned: []
+				special: [],
+				roundTable:[]
 			};
+			
 		},
 		created() {
 			this.axios.get('http://localhost:8080/api/special').then(res => {
-
-				this.recommoned = res.data.data;
+				this.special = res.data.data;
 			});
+			this.axios.get('http://localhost:8080/api/roundTable').then(res => {
+				this.roundTable = res.data.data;
+			});			
 		}
 	};
 </script>
@@ -51,13 +77,12 @@
 	}
 
 	.banner {
-
 		margin-bottom: 10px;
 		margin-top: 80px;
 		height: 80px;
 		border: 1px solid #d6d6d6;
 		box-shadow: 2px 5px 5px #ddd;
-		display: flex;
+		
 		align-items: center;
 	}
 
@@ -82,7 +107,6 @@
 		flex: 1;
 		border: 1px solid #eee;
 	}
-
 	.col-5 {
 		flex: 0 0 50%;
 	}

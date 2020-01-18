@@ -1,11 +1,12 @@
 <template>
 	<div class="body">
-	<div class="banner">
-		<h1>全部专题</h1>
-		<p>共有{{recommoned.length}}个专题</p>
-	</div>
+	
 	<div class="container">
-		<div class="row" v-for="(item,index) in recommoned" :key="index">
+		<div class="banner">
+		<h1>全部专题</h1>
+		<p>共有{{special.length}}个专题</p>
+	</div>
+		<div class="row" v-for="(item,index) in special" :key="index">
 			<div class="col-4">
 			<img :src="item.banner" alt=""></div>
 			<div class="col-8">
@@ -17,26 +18,28 @@
 				</span>
 			</div>
 		</div>
+		
 	</div>
+	
 	</div>
+	
 </template>
-
 <script>
-	export default {
-		name: 'recommoned',
+	export default {		
 		// data一定要是个函数
 		data() {
 			return {
-				recommoned: []
+				special: []
 			};
 		},
 		created() {
 			this.axios.get('http://localhost:8080/api/special/all').then(res => {
 				
-				this.recommoned = res.data.data;
+				this.special = res.data.data;
 			});
 		}
 	};
+	
 </script>
 <style lang="scss" scoped>
 	.body{
@@ -45,7 +48,7 @@
 	
 	.banner {
 		margin-bottom: 10px;
-		margin-top: 80px;
+		margin-top: 20px;
 		height: 80px;
 		border: 1px solid #d6d6d6;
 		box-shadow: 2px 5px 5px #ddd;
@@ -92,4 +95,5 @@
 			}
 		}
 	}
+	
 </style>
