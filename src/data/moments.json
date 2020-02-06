@@ -1,0 +1,889 @@
+{
+	"has_new": true,
+	"paging": {
+		"is_end": false,
+		"next": "https://www.zhihu.com/api/v3/moments?action=down&session_start_id=1580820318&limit=7&after_id=1580671529553&desktop=true",
+		"previous": "https://www.zhihu.com/api/v3/moments?action=pull&before_id=1580820318000&session_start_id=1580820318&limit=7&desktop=true"
+	},
+	"fresh_text": "\u5173\u6ce8\u52a8\u6001\u5df2\u66f4\u65b0",
+	"data": [{
+		"count": 1,
+		"uninterest_reasons": [{
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19561235",
+			"reason_text": "\u5218\u5907",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19561232",
+			"reason_text": "\u8bf8\u845b\u4eae",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19962576",
+			"reason_text": "\u4e09\u56fd\u5386\u53f2",
+			"object_type": "topic"
+		}, {
+			"reason_type": "creator",
+			"reason_id": 2,
+			"object_token": "74d5709cd0e76cc2aa9ab58aa5990dd9",
+			"reason_text": "\u738b\u749f\u521b\u4f5c\u7684\u5185\u5bb9",
+			"object_type": "people"
+		}],
+		"target": {
+			"relevant_info": {
+				"relevant_type": "",
+				"is_relevant": false,
+				"relevant_text": ""
+			},
+			"relationship": {
+				"voting": 0,
+				"is_thanked": false,
+				"is_nothelp": false,
+				"upvoted_followee_ids": []
+			},
+			"mark_infos": [],
+			"excerpt": "\u8bf8\u845b\u4eae\u90a3\u53e5\u8bdd\uff0c\u6f14\u4e49\u91cc\u662f\u4e8b\u540e\u8bf4\u7684\uff0c\u591a\u5c11\u6709\u70b9\u4e8b\u540e\u8bf8\u845b\u4eae\u4e86\uff0c\u800c\u4e14\u91cd\u70b9\u8be5\u653e\u5728\u540e\u534a\u53e5\u201c\u5047\u5982\u6cd5\u6b63\u5728\uff0c\u5218\u5907\u4e0d\u81f3\u4e8e\u5927\u8d25\u201d\u3002\u800c\u4e14\u8bf8\u845b\u4eae\u672a\u5fc5\u4e0d\u652f\u6301\u5218\u5907\u593a\u56de\u8346\u5dde\uff0c\u7279\u522b\u662f\u5b59\u6743\u521a\u6253\u4e0b\u8346\u5dde\u7684\u65f6\u5019\u3002\u8981\u77e5\u9053\uff0c\u9686\u4e2d\u5bf9\u6210\u7acb\u7684\u57fa\u7840\u5c31\u662f\u5218\u5907\u540c\u65f6\u5360\u6709\u8346\u5dde\u548c\u76ca\u5dde\u3002\u56e0\u4e3a\u6210\u90fd\u51fa\u5ddd\u90fd\u662f\u5c71\u8def\uff0c\u8865\u7ed9\u56f0\u96be\uff0c\u5175\u529b\u4e5f\u5c55\u4e0d\u5f00\uff0c\u5f88\u5bb9\u6613\u88ab\u5835\u5728\u5c71\u533a\u3002\u800c\u4e14\u56e0\u4e3a\u8def\u9014\u9065\u8fdc\uff0c\u5f88\u5bb9\u6613\u9519\u8fc7\u65f6\u673a\u3002\u9686\u4e2d\u5bf9\u91cc\u201c\u5f85\u5929\u4e0b\u6709\u53d8\u201d\uff0c\u524d\u63d0\u5c31\u662f\u5929\u4e0b\u6709\u53d8\u7684\u65f6\u5019\u5218\u5907\u6765\u5f97\u53ca\u53cd\u5e94\uff0c\u5728\u6210\u90fd\u662f\u505a\u4e0d\u5230\u8fd9\u70b9\u2026",
+			"created_time": 1580820318,
+			"preview_type": "default",
+			"id": 998609880,
+			"is_copyable": true,
+			"author": {
+				"is_followed": false,
+				"type": "people",
+				"name": "\u738b\u749f",
+				"headline": "\u8fd9\u662f\u4e2a\u904d\u5730\u9ec4\u91d1\u7684\u5e74\u4ee3\uff0c\u53ef\u60dc\u7a7a\u624b\u6316\u4e0d\u52a8\u3002",
+				"url_token": "wang-jing-68-42-90",
+				"user_type": "people",
+				"vip_info": null,
+				"url": "https://api.zhihu.com/people/74d5709cd0e76cc2aa9ab58aa5990dd9",
+				"avatar_url": "https://pic3.zhimg.com/50/4cae4b8c0edf8d7d5e63fd97978ac9ee_s.jpg",
+				"is_following": false,
+				"is_org": false,
+				"gender": 1,
+				"badge": [],
+				"id": "74d5709cd0e76cc2aa9ab58aa5990dd9"
+			},
+			"url": "https://api.zhihu.com/answers/998609880",
+			"comment_permission": "all",
+			"question": {
+				"author": {
+					"is_followed": false,
+					"type": "people",
+					"name": "\u6ee1\u76ee\u661f\u8fb0",
+					"headline": "",
+					"url_token": "man-mu-xing-chen-63-86",
+					"user_type": "people",
+					"vip_info": null,
+					"url": "https://api.zhihu.com/people/6a3aecf6a47880bc74ec31a847fbf66f",
+					"avatar_url": "https://pic2.zhimg.com/50/v2-475dfbe5c5ea062007f512166f5eb2ab_s.jpg",
+					"is_following": false,
+					"is_org": false,
+					"gender": 1,
+					"badge": [],
+					"id": "6a3aecf6a47880bc74ec31a847fbf66f"
+				},
+				"title": "\u4e3a\u4ec0\u4e48\u5218\u5907\u4f10\u5434\uff0c\u8bf8\u845b\u4eae\u529d\u4e0d\u4e86\u5462\uff1f\u53ea\u662f\u8bf4\u4e86\u4e00\u53e5\uff0c\u5982\u679c\u6cd5\u6b63\u5728\u5c31\u597d\u4e86\uff0c\u4e3b\u516c\u4e00\u5b9a\u542c\u6cd5\u6b63\u7684\uff1f",
+				"url": "https://api.zhihu.com/questions/368596018",
+				"created": 1580360016,
+				"excerpt": "",
+				"answer_count": 26,
+				"bound_topic_ids": [139513, 3678, 3679],
+				"comment_count": 1,
+				"is_following": false,
+				"question_type": "normal",
+				"follower_count": 26,
+				"type": "question",
+				"id": 368596018
+			},
+			"updated_time": 1580822971,
+			"content": "<p>\u8bf8\u845b\u4eae\u90a3\u53e5\u8bdd\uff0c\u6f14\u4e49\u91cc\u662f\u4e8b\u540e\u8bf4\u7684\uff0c\u591a\u5c11\u6709\u70b9\u4e8b\u540e\u8bf8\u845b\u4eae\u4e86\uff0c\u800c\u4e14\u91cd\u70b9\u8be5\u653e\u5728\u540e\u534a\u53e5\u201c\u5047\u5982\u6cd5\u6b63\u5728\uff0c\u5218\u5907\u4e0d\u81f3\u4e8e\u5927\u8d25\u201d\u3002</p><p>\u800c\u4e14\u8bf8\u845b\u4eae\u672a\u5fc5\u4e0d\u652f\u6301\u5218\u5907\u593a\u56de\u8346\u5dde\uff0c\u7279\u522b\u662f\u5b59\u6743\u521a\u6253\u4e0b\u8346\u5dde\u7684\u65f6\u5019\u3002\u8981\u77e5\u9053\uff0c\u9686\u4e2d\u5bf9\u6210\u7acb\u7684\u57fa\u7840\u5c31\u662f\u5218\u5907\u540c\u65f6\u5360\u6709\u8346\u5dde\u548c\u76ca\u5dde\u3002\u56e0\u4e3a\u6210\u90fd\u51fa\u5ddd\u90fd\u662f\u5c71\u8def\uff0c\u8865\u7ed9\u56f0\u96be\uff0c\u5175\u529b\u4e5f\u5c55\u4e0d\u5f00\uff0c\u5f88\u5bb9\u6613\u88ab\u5835\u5728\u5c71\u533a\u3002\u800c\u4e14\u56e0\u4e3a\u8def\u9014\u9065\u8fdc\uff0c\u5f88\u5bb9\u6613\u9519\u8fc7\u65f6\u673a\u3002\u9686\u4e2d\u5bf9\u91cc\u201c\u5f85\u5929\u4e0b\u6709\u53d8\u201d\uff0c\u524d\u63d0\u5c31\u662f\u5929\u4e0b\u6709\u53d8\u7684\u65f6\u5019\u5218\u5907\u6765\u5f97\u53ca\u53cd\u5e94\uff0c\u5728\u6210\u90fd\u662f\u505a\u4e0d\u5230\u8fd9\u70b9\u7684\uff0c\u5b9e\u9645\u4e0a\u540e\u6765\u5b5f\u8fbe\u53cd\u53db\u7684\u65f6\u5019\uff0c\u8bf8\u845b\u4eae\u6839\u672c\u6765\u4e0d\u53ca\u505a\u5565\u53cd\u5e94\uff0c\u5b5f\u8fbe\u5c31\u5df2\u7ecf\u51c9\u4e86\u3002</p><p>\u8346\u5dde\u5728\u624b\u7684\u60c5\u51b5\u4e0b\uff0c\u9b4f\u56fd\u4e00\u65e6\u51fa\u73b0\u70b9\u513f\u95ee\u9898\uff0c\u5148\u7531\u8346\u5dde\u51fa\u5175\uff0c\u7136\u540e\u76ca\u5dde\u8865\u8346\u5dde\u5175\u529b\u62bd\u8d70\u7684\u7a7a\u7f3a\uff0c\u8346\u5dde\u7275\u626f\u4e86\u9b4f\u56fd\u7cbe\u529b\u7684\u60c5\u51b5\u4e0b\uff0c\u518d\u5728\u96cd\u5dde\u7f3a\u5c11\u652f\u63f4\uff0c\u751a\u81f3\u5175\u529b\u88ab\u62bd\u6389\u7684\u60c5\u51b5\u4e0b\uff0c\u51fa\u5175\u957f\u5b89\u3002</p><p>\u4e22\u4e86\u8346\u5dde\u4e4b\u540e\uff0c\u8bf8\u845b\u4eae\u4e00\u76f4\u90fd\u5728\u8bd5\u56fe\u89e3\u51b3\u5982\u4f55\u4e0d\u88ab\u5835\u5728\u5c71\u533a\u7684\u95ee\u9898\u3002\u540e\u6765\u4e0d\u77e5\u9053\u8bf8\u845b\u4eae\u641e\u4e86\u591a\u5c11\u5730\u4e0b\u5de5\u4f5c\uff0c\u624d\u9760\u5e26\u8def\u515a\u5230\u4e86\u5929\u6c34\uff0c\u7136\u540e\u624d\u7206\u53d1\u7684\u8857\u4ead\u4e4b\u6218\uff0c\u76ee\u7684\u5c31\u662f\u5360\u636e\u8857\u4ead\u540e\uff0c\u4ee5\u540e\u4ece\u51c9\u5dde\u51fa\u5175\uff0c\u51fa\u53d1\u5730\u662f\u8857\u4ead\uff0c\u8865\u7ed9\u4ece\u5929\u6c34\u51fa\uff0c\u5c71\u533a\u884c\u519b\u91cc\u7a0b\u5c31\u5927\u5927\u7f29\u77ed\u4e86\uff0c\u4e00\u8fc7\u8857\u4ead\u4e00\u4e24\u767e\u91cc\uff0c\u5c31\u8fdb\u5e73\u539f\u4e86\u3002</p><p>\u7136\u800c\u90ed\u6dee\u628a\u8bf8\u845b\u4eae\u62d6\u4e86\u51e0\u5929\uff0c\u9a6c\u8c21\u4e00\u5931\u8bef\uff0c\u5f20\u90c3\u884c\u519b\u901f\u5ea6\u591f\u5feb\uff08\u5176\u5b9e\u4e5f\u5c31\u662f\u4e00\u592935\u516c\u91cc\uff0c\u53ea\u76f8\u5f53\u4e8e\u5b8b\u671d\u6b63\u5e38\u884c\u519b\u7684\u6700\u9ad8\u8981\u6c42\uff0c\u8fde\u6025\u884c\u519b\u90fd\u7b97\u4e0d\u4e0a\uff0c\u53ea\u662f\u8fde\u8dd1\u4e86\u5341\u51e0\u4e8c\u5341\u5929\uff09\u3002\u53cd\u8fc7\u6765\u8bf4\u5c31\u662f\u8bf8\u845b\u4eae\u7b2c\u4e00\u6b21\u5317\u4f10\u7684\u65f6\u5019\u6574\u4e2a\u8ba1\u5212\u7684\u5bb9\u9519\u7387\u6781\u4f4e\uff0c\u8fd8\u5f97\u654c\u65b9\u914d\u5408\u624d\u884c\u3002\u800c\u8fd9\u5df2\u7ecf\u662f\u6700\u597d\u7684\u60c5\u51b5\u4e86\u3002</p><p>\u6240\u4ee5\uff0c\u8bf8\u845b\u4eae\u8fd9\u53e5\u8bdd\u53ea\u80fd\u7b97\u4e8b\u540e\u62b1\u6028\uff0c\u91cd\u70b9\u662f\u5728\u540e\u534a\u53e5\uff0c\u6709\u6cd5\u6b63\u5728\uff0c\u5218\u5907\u4e0d\u81f3\u4e8e\u5927\u8d25\u3002</p><p>\u53e6\u5916\u8981\u6ce8\u610f\u4e00\u70b9\uff0c\u5386\u53f2\u4e66\u4e0a\u8bb0\u8f7d\u7684\u4e8b\u4ef6\u53ef\u884c\u5ea6\u8f83\u9ad8\uff0c\u4f46\u8bb0\u8f7d\u7684\u968f\u53e3\u4e00\u53e5\u8bdd\uff0c\u53ef\u4fe1\u5ea6\u5b58\u7591\uff0c\u5c31\u597d\u6bd4\u9879\u7fbd\u8bf4\u7684\u201c\u5f7c\u53ef\u53d6\u800c\u4ee3\u4e4b\u201d\uff0c\u8fd9\u5230\u5e95\u662f\u8c01\u8bb0\u8f7d\u4e0b\u6765\u7684? \u54ea\u6015\u662f\u73b0\u5728\uff0c\u8b66\u5bdf\u505a\u8c03\u67e5\u7684\u65f6\u5019\u95ee\u7684\u662f\u5f53\u4e8b\u4eba\uff0c\u5f53\u4e8b\u4eba\u590d\u8ff0\u7684\u5bf9\u8bdd\u5185\u5bb9\u90fd\u65e0\u6cd5\u5b8c\u5168\u76f8\u4fe1\u7684\uff0c\u6211\u505a\u4f01\u4e1a\u8c03\u67e5\uff0c\u5f53\u4e8b\u4eba\u53e3\u8ff0\u7684\u5185\u5bb9\u4e5f\u53ea\u80fd\u4f5c\u4e3a\u8c03\u67e5\u601d\u8def\u548c\u7ebf\u7d22\uff0c\u4f46\u4e0d\u80fd\u4f5c\u4e3a\u8bc1\u636e\uff0c\u8f6c\u8ff0\u7684\u5c31\u66f4\u5b58\u7591\u4e86\u3002</p>",
+			"comment_count": 1,
+			"voteup_count": 4,
+			"reshipment_settings": "allowed",
+			"thanks_count": 0,
+			"excerpt_new": "\u8bf8\u845b\u4eae\u90a3\u53e5\u8bdd\uff0c\u6f14\u4e49\u91cc\u662f\u4e8b\u540e\u8bf4\u7684\uff0c\u591a\u5c11\u6709\u70b9\u4e8b\u540e\u8bf8\u845b\u4eae\u4e86\uff0c\u800c\u4e14\u91cd\u70b9\u8be5\u653e\u5728\u540e\u534a\u53e5\u201c\u5047\u5982\u6cd5\u6b63\u5728\uff0c\u5218\u5907\u4e0d\u81f3\u4e8e\u5927\u8d25\u201d\u3002 \u800c\u4e14\u8bf8\u845b\u4eae\u672a\u5fc5\u4e0d\u652f\u6301\u5218\u5907\u593a\u56de\u8346\u5dde\uff0c\u7279\u522b\u662f\u5b59\u6743\u521a\u6253\u4e0b\u8346\u5dde\u7684\u65f6\u5019\u3002\u8981\u77e5\u9053\uff0c\u9686\u4e2d\u5bf9\u6210\u7acb\u7684\u57fa\u7840\u5c31\u662f\u5218\u5907\u540c\u65f6\u5360\u6709\u8346\u5dde\u548c\u76ca\u5dde\u3002\u56e0\u4e3a\u6210\u90fd\u51fa\u5ddd\u90fd\u662f\u5c71\u8def\u2026",
+			"preview_text": "",
+			"can_comment": {
+				"status": true,
+				"reason": ""
+			},
+			"type": "answer",
+			"thumbnail": ""
+		},
+		"show_actor_time": true,
+		"action_text_tpl": "{}\u56de\u7b54\u4e86\u95ee\u9898",
+		"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 998609880}",
+		"updated_time": 1580820318,
+		"verb": "MEMBER_ANSWER_QUESTION",
+		"actors": [{
+			"is_followed": false,
+			"type": "people",
+			"name": "\u738b\u749f",
+			"headline": "\u8fd9\u662f\u4e2a\u904d\u5730\u9ec4\u91d1\u7684\u5e74\u4ee3\uff0c\u53ef\u60dc\u7a7a\u624b\u6316\u4e0d\u52a8\u3002",
+			"url_token": "wang-jing-68-42-90",
+			"user_type": "people",
+			"vip_info": {
+				"is_vip": false
+			},
+			"url": "https://api.zhihu.com/people/74d5709cd0e76cc2aa9ab58aa5990dd9",
+			"avatar_url": "https://pic3.zhimg.com/50/4cae4b8c0edf8d7d5e63fd97978ac9ee_s.jpg",
+			"is_following": false,
+			"is_org": false,
+			"gender": 1,
+			"badge": [],
+			"id": "74d5709cd0e76cc2aa9ab58aa5990dd9"
+		}],
+		"attached_info": "CpQBCLTemY6+pvO0YhAEGgkyMTE2MzEzMjYg3s7l8QUoBDABQABKEQoBTRIIMzk1MDk1MDYYACAAUhZtZW1iZXJfYW5zd2VyX3F1ZXN0aW9uWgg0NDE4ODExM3IJOTk4NjA5ODgweACKAQkzNjg1OTYwMTiqAQZmb2xsb3eyAQh0aW1lbGluZboBDHN1YnNjcmlwdGlvbg==",
+		"offset": 0,
+		"created_time": 1580820318,
+		"type": "feed",
+		"id": "0_1580892000.81"
+	}, {
+		"count": 1,
+		"uninterest_reasons": [{
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19786710",
+			"reason_text": "\u5feb\u9910\u884c\u4e1a",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19564895",
+			"reason_text": "\u80af\u5fb7\u57fa\uff08KFC\uff09",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19560401",
+			"reason_text": "\u9ea6\u5f53\u52b3",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19628937",
+			"reason_text": "\u5feb\u9910",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19951015",
+			"reason_text": "\u80af\u5fb7\u57fa\u8425\u9500\u6a21\u5f0f",
+			"object_type": "topic"
+		}],
+		"target": {
+			"author": {
+				"headline": "",
+				"avatar_url": "https://pic4.zhimg.com/aadd7b895_s.jpg",
+				"name": "\u533f\u540d\u7528\u6237",
+				"url": "",
+				"url_token": "",
+				"type": "people",
+				"user_type": "people",
+				"id": "0"
+			},
+			"relationship": {
+				"is_author": false
+			},
+			"title": "\u9762\u5bf9\u75ab\u60c5\uff0c\u80af\u5fb7\u57fa\u9ea6\u5f53\u52b3\u4e3a\u4ec0\u4e48\u4e0d\u6682\u505c\u8425\u4e1a?",
+			"url": "https://api.zhihu.com/questions/368209119",
+			"created": 1580143666,
+			"excerpt": "",
+			"detail": "",
+			"answer_count": 98,
+			"bound_topic_ids": [135687, 26316, 3400, 4894, 79313],
+			"comment_count": 4,
+			"is_following": false,
+			"question_type": "normal",
+			"follower_count": 158,
+			"type": "question",
+			"id": 368209119
+		},
+		"show_actor_time": true,
+		"action_text_tpl": "{}\u5173\u6ce8\u4e86\u95ee\u9898",
+		"brief": "{\"source\": \"TS\", \"type\": \"question\", \"id\": 368209119}",
+		"updated_time": 1580757617,
+		"verb": "MEMBER_FOLLOW_QUESTION",
+		"actors": [{
+			"is_followed": false,
+			"type": "people",
+			"name": "\u5927\u5934\u5e2e\u4e3b",
+			"headline": "\u5e73\u751f\u6700\u6068\u5c0f\u5934\u4eba",
+			"url_token": "da-tou-bang-zhu",
+			"user_type": "people",
+			"vip_info": {
+				"is_vip": true,
+				"vip_icon": {
+					"url": "https://pic3.zhimg.com/50/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png",
+					"night_mode_url": "https://pic3.zhimg.com/50/v2-c9686ff064ea3579730756ac6c289978_r.png"
+				}
+			},
+			"url": "https://api.zhihu.com/people/5a30e02044ba1198cac3a9183464f41a",
+			"avatar_url": "https://pic3.zhimg.com/50/085f36ce4_s.jpg",
+			"is_following": false,
+			"is_org": false,
+			"gender": 1,
+			"badge": [{
+				"topics": [],
+				"topic_names": ["\u5efa\u7b51\u8bbe\u8ba1"],
+				"type": "best_answerer",
+				"description": "\u4f18\u79c0\u56de\u7b54\u8005"
+			}],
+			"id": "5a30e02044ba1198cac3a9183464f41a"
+		}],
+		"attached_info": "Cn0ItN6Zjr6m87RiEAMaCDQ0MTAyMTk4ILKovPEFMAQ4ngFAAUoQCgFNEgcxMTY2Nzg0GAAgAFIWbWVtYmVyX2ZvbGxvd19xdWVzdGlvbnIJMzY4MjA5MTE5eACqAQZmb2xsb3eyAQh0aW1lbGluZboBDHN1YnNjcmlwdGlvbg==",
+		"offset": 1,
+		"created_time": 1580757617,
+		"type": "feed",
+		"id": "1_1580892000.81"
+	}, {
+		"uninterest_reasons": [{
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19562832",
+			"reason_text": "\u7bee\u7403",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19552439",
+			"reason_text": "NBA",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19656415",
+			"reason_text": "\u5bc6\u5c14\u6c83\u57fa\u96c4\u9e7f\uff08Milwaukee Bucks\uff09",
+			"object_type": "topic"
+		}, {
+			"reason_type": "creator",
+			"reason_id": 2,
+			"object_token": "f81831bea44f2c027bf662268bf760b2",
+			"reason_text": "\u9759\u6613\u58a8\u521b\u4f5c\u7684\u5185\u5bb9",
+			"object_type": "people"
+		}],
+		"target": {
+			"updated": 1580721422,
+			"author": {
+				"is_followed": false,
+				"type": "people",
+				"name": "\u9759\u6613\u58a8",
+				"headline": "\u516c\u4f17\u53f7\uff1a\u9759\u6613\u58a8\uff08jingyimo456\uff09",
+				"url_token": "jingyimo",
+				"user_type": "people",
+				"vip_info": null,
+				"url": "https://api.zhihu.com/people/f81831bea44f2c027bf662268bf760b2",
+				"avatar_url": "https://pic3.zhimg.com/50/v2-e25f2a01779b031d1cb0a5352058441e_s.jpg",
+				"is_following": true,
+				"is_org": false,
+				"gender": 1,
+				"badge": [],
+				"id": "f81831bea44f2c027bf662268bf760b2"
+			},
+			"excerpt": "\u8981\u662f\u4eca\u5929\u8fd9\u7bc7\u6587\u7ae0\u9996\u53d1\u5728UC\uff0c\u6211\u5c31\u628a\u9898\u76ee\u6539\u6210\uff0c\u201c\u9ec4\u91d1\u62fc\u56fe\uff01\u82e5\u6e56\u4eba\u5f97\u6b64\u4eba\uff0c\u9738\u4e1a\u53ef\u6210\uff01\u201d\uff0c\u90a3\u9605\u8bfb\u91cf\uff0c\u80af\u5b9a\u54d7\u54d7\u7684~ \u5f53\u7136\u5566\uff0c\u53ef\u60dc\u6362\u4e0d\u5f97\uff0c\u4f55\u51b5\u6e56\u4eba\u7f3a\u7684\u89d2\u8272\u4e5f\u6709\u70b9\u591a\uff0c\u4e00\u4e2a\u201c\u9ec4\u91d1\u62fc\u56fe\u201d\u5c31\u5168\u89e3\u51b3\u53ef\u4e0d\u5bb9\u6613\u3002 \u7279\u4f26\u65af-\u6234\u7ef4\u65af\uff0c\u731b\u9f99\u672c\u8d5b\u5b63\u66ff\u8865\u65b0\u63f4\u4e09\u6770\u4e4b\u4e00\uff0c\u4e5f\u662f\u4e09\u6770\u4e2d\u6700\u4e0d\u53ef\u601d\u8bae\u7684\u4e00\u4e2a\u2014\u201422\u5c81\uff0c\u843d\u9009\u79c0\uff0c\u62ff\u774089\u4e07\u85aa\u8d44\uff0c\u4e0b\u4e2a\u8d5b\u5b63\u7684\u5408\u540c\u8fd8\u662f\u975e\u4fdd\u969c\uff0c\u5728\u8fd9\u652f\u4f24\u75c5\u4e0d\u65ad\u7684\u731b\u9f99\u961f\u91cc\u59cb\u7ec8\u4fdd\u6301\u7740\u5065\u5eb7\uff0c100%\u51fa\u52e4\uff0c\u51fa\u573a\u5c31\u6709\u8d21\u732e\uff0c\u4ed6\u5728\u65f6\u7403\u961f\u591a\u534a\u4f1a\u8d62\u5206\uff0c\u2026",
+			"id": 104873568,
+			"voteup_count": 174,
+			"upvoted_followees": [],
+			"created": 1580721420,
+			"url": "https://zhuanlan.zhihu.com/p/104873568",
+			"comment_permission": "all",
+			"title": "\u914d\u89d2\u7ea2\u5229\u7684\u79ef\u6512\uff0c\u94f8\u5c31\u5f3a\u76db\u7684\u9876\u7ea7\u7403\u961f",
+			"preview_type": "default",
+			"content": "<p>\u8981\u662f\u4eca\u5929\u8fd9\u7bc7\u6587\u7ae0\u9996\u53d1\u5728UC\uff0c\u6211\u5c31\u628a\u9898\u76ee\u6539\u6210\uff0c\u201c\u9ec4\u91d1\u62fc\u56fe\uff01\u82e5\u6e56\u4eba\u5f97\u6b64\u4eba\uff0c\u9738\u4e1a\u53ef\u6210\uff01\u201d\uff0c\u90a3\u9605\u8bfb\u91cf\uff0c\u80af\u5b9a\u54d7\u54d7\u7684~</p><p><br></p><p>\u5f53\u7136\u5566\uff0c\u53ef\u60dc\u6362\u4e0d\u5f97\uff0c\u4f55\u51b5\u6e56\u4eba\u7f3a\u7684\u89d2\u8272\u4e5f\u6709\u70b9\u591a\uff0c\u4e00\u4e2a\u201c\u9ec4\u91d1\u62fc\u56fe\u201d\u5c31\u5168\u89e3\u51b3\u53ef\u4e0d\u5bb9\u6613\u3002</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-202e69087c70d04b484e673ba6eaf7af_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic4.zhimg.com/v2-202e69087c70d04b484e673ba6eaf7af_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='700'%20height='350'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"700\" data-original=\"https://pic4.zhimg.com/v2-202e69087c70d04b484e673ba6eaf7af_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-202e69087c70d04b484e673ba6eaf7af_b.jpg\"></figure><p><br></p><p><br></p><p>\u7279\u4f26\u65af-\u6234\u7ef4\u65af\uff0c\u731b\u9f99\u672c\u8d5b\u5b63\u66ff\u8865\u65b0\u63f4\u4e09\u6770\u4e4b\u4e00\uff0c\u4e5f\u662f\u4e09\u6770\u4e2d\u6700\u4e0d\u53ef\u601d\u8bae\u7684\u4e00\u4e2a\u2014\u201422\u5c81\uff0c\u843d\u9009\u79c0\uff0c\u62ff\u774089\u4e07\u85aa\u8d44\uff0c\u4e0b\u4e2a\u8d5b\u5b63\u7684\u5408\u540c\u8fd8\u662f\u975e\u4fdd\u969c\uff0c\u5728\u8fd9\u652f\u4f24\u75c5\u4e0d\u65ad\u7684\u731b\u9f99\u961f\u91cc\u59cb\u7ec8\u4fdd\u6301\u7740\u5065\u5eb7\uff0c100%\u51fa\u52e4\uff0c\u51fa\u573a\u5c31\u6709\u8d21\u732e\uff0c\u4ed6\u5728\u65f6\u7403\u961f\u591a\u534a\u4f1a\u8d62\u5206\uff0c\u4e0d\u77e5\u4e0d\u89c9\u95f4\uff0c\u7adf\u7136\u6210\u4e86\u7403\u961fon/off\u6570\u636e\u9738\u4e3b\uff0c\u771f\u5b9e\u6b63\u8d1f\u503c\u7403\u961f\u7b2c2\uff0c\u8054\u76df\u7b2c12\uff0c\u59a5\u59a5\u798f\u5c06\u4e00\u5458\uff0c\u731b\u9f99\u6dd8\u5230\u6b64\u4eba\uff0c\u771f\u662f\u6361\u5230\u5b9d\u8d1d\u4e86\u3002</p><p><br></p><p>\u8fd9\u4e8b\u5f53\u7136\u4e0d\u5947\u602a\u4e86\uff0c\u5bf9\u731b\u9f99\u8fd9\u51e0\u5e74\u4f4e\u4f4d\u6dd8\u5b9d\u7684\u672c\u4e8b\u5df2\u7ecf\u4e60\u60ef\u4e86\uff0c\u95ee\u9898\u662f\uff0c\u8fd9\u4e2a\u7279\u4f26\u65af-\u6234\u7ef4\u65af\u4f4e\u987a\u4f4d\u90fd\u8c08\u4e0d\u4e0a\u2014\u2014\u4eba\u5bb6\u5c31\u6ca1\u88ab\u9009\u4e0a\u2014\u2014\u800c\u4e14\uff0c\u4ed6\u4e5f...\u4e5f\u597d\u7528\u7684\u8fc7\u5206\u4e86\u5427\uff0c\u4f60\u770b\u770b\u8fd9\u90fd\u4ec0\u4e48\u6570\u636e\u554a\uff1a<br></p><p><br></p><p>\u56de\u5408\u5360\u6709\u738717.4%+\u771f\u5b9e\u547d\u4e2d\u738762.6%\uff0c\u6807\u51c6\u4f18\u8d28\u914d\u89d2\u4ea7\u6548\uff1b</p><p><br></p><p>\u6bcf36\u5206\u949f7\u6b21\u4e09\u5206\u51fa\u624b\uff0c41.7%\u4e09\u5206\u547d\u4e2d\u7387\uff0c\u5b9a\u70b9\u6548\u7387\u8d85\u8fc793%\u7684\u7403\u5458\uff0c\u5b8c\u7f8e\u7a7a\u95f4\u70b9\uff1b</p><p><br></p><p>\u4e0d\u4e71\u51fa\u624b\uff0c\u4e2d\u8ddd\u79bb\u51e0\u4e4e\u4e0d\u6295\uff0c\u6295\u7bee\u5206\u5e03\u5b8c\u7f8e\u9b54\u7403\uff0c\u914d\u89d2\u7684\u672c\u5206\uff1b</p><p><br></p><p>\u7bee\u4e0b\u7ec8\u7ed3\u9ad8\u6548\uff0c66%\u7bee\u4e0b\u547d\u4e2d\u7387\u8d85\u8fc793%\u7684\u540c\u4f4d\u7f6e\u7403\u5458\uff0c\u770b\u770b\u8fd9\u7a7a\u5207\u8d70\u4f4d\uff0c\u8fd9\u7a33\u5065\u653e\u7bee\uff1b</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f2094497903c735e7bd2c230d78616e6_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic4.zhimg.com/v2-f2094497903c735e7bd2c230d78616e6_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic4.zhimg.com/v2-f2094497903c735e7bd2c230d78616e6_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic4.zhimg.com/v2-f2094497903c735e7bd2c230d78616e6_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic4.zhimg.com/v2-f2094497903c735e7bd2c230d78616e6_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f2094497903c735e7bd2c230d78616e6_b.gif\"></figure><p><br></p><p><br></p><p>\u6709\u4e00\u5b9a\u5feb\u653b\u80fd\u529b\uff0c\u63a8\u8fdb\u4e0a\u7bee\u4e00\u6761\u9f99\u6ca1\u95ee\u9898\uff1b</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8690fac7159d521f46064b2b23c20b18_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-8690fac7159d521f46064b2b23c20b18_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-8690fac7159d521f46064b2b23c20b18_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-8690fac7159d521f46064b2b23c20b18_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-8690fac7159d521f46064b2b23c20b18_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8690fac7159d521f46064b2b23c20b18_b.gif\"></figure><p><br></p><p><br></p><p>\u6709\u4e00\u4e9b\u5904\u7406\u7403\u80fd\u529b\uff0c\u5c11\u91cf\u6253\u6321\u62c6\u65f6\u4f1a\u7ed9\u63a9\u62a4\u4eba\u5582\u7403\u2014\u2014\u731b\u9f99\u4f20\u7edf\uff1b</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6e1e2c29986670617d6eadcef04c196f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-6e1e2c29986670617d6eadcef04c196f_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-6e1e2c29986670617d6eadcef04c196f_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-6e1e2c29986670617d6eadcef04c196f_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-6e1e2c29986670617d6eadcef04c196f_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6e1e2c29986670617d6eadcef04c196f_b.gif\"></figure><p><br></p><p><br></p><p>1.93\u7c73\u7684\u8eab\u9ad8\u62532\u53f7\u4f4d\u5f53\u7136\u4e0d\u9ad8\uff0c\u4f46\u5e76\u4e0d\u4f1a\u8ba9\u4eba\u89c9\u5f97\u8eab\u4f53\u5403\u4e8f\u2014\u2014\u53c8\u662f\u731b\u9f99\u4f20\u7edf\u2014\u2014\u62a2\u65ad\u76d6\u5e3d\u7bee\u677f\u90fd\u4e0d\u9519\uff0c\u731b\u9f99\u4f24\u75c5\u6700\u4e25\u91cd\u90a3\u4f1a\u513f\uff0c\u8ddf\u6717\u6234\u548c\u5e03\u6b47\u8fd9\u4e24\u6770\u4e00\u8d77\uff0c\u65f6\u4e0d\u65f6\u641e\u51fa\u94c1\u8840\u534f\u9632+\u5feb\u653b\u62a2\u5206\u620f\u7801\u3002</p><p><br></p><p>\u8fd9\u8fd8\u6ca1\u5b8c\u554a\u3002\u9c8d\u5a01\u5c14\u624b\u638c\u9aa8\u6298\u4f11\u6218\uff0c\u7279\u4f26\u65af\u7684\u620f\u4efd\u5c31\u52a0\u4e86\u4e0d\u5c11\uff0c\u770b\u770b\u4ed6\u90fd\u5e72\u4e86\u4e9b\u4ec0\u4e48\uff01</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e0fc8109029014f46f95aeb98feac003_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic4.zhimg.com/v2-e0fc8109029014f46f95aeb98feac003_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic4.zhimg.com/v2-e0fc8109029014f46f95aeb98feac003_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic4.zhimg.com/v2-e0fc8109029014f46f95aeb98feac003_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic4.zhimg.com/v2-e0fc8109029014f46f95aeb98feac003_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e0fc8109029014f46f95aeb98feac003_b.gif\"></figure><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-bfc2466919aa5541cd7d729ee27d519e_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-bfc2466919aa5541cd7d729ee27d519e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-bfc2466919aa5541cd7d729ee27d519e_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-bfc2466919aa5541cd7d729ee27d519e_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-bfc2466919aa5541cd7d729ee27d519e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bfc2466919aa5541cd7d729ee27d519e_b.gif\"></figure><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f36cc33dc20d097317c1da764fad9cf1_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-f36cc33dc20d097317c1da764fad9cf1_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-f36cc33dc20d097317c1da764fad9cf1_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-f36cc33dc20d097317c1da764fad9cf1_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-f36cc33dc20d097317c1da764fad9cf1_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f36cc33dc20d097317c1da764fad9cf1_b.gif\"></figure><p><br></p><p><br></p><p>\u8fd9\u8fd8\u540e\u64a4\u6b65\u6301\u7403\u6295\u4e86\uff1f\u8fd9\u8fd8\u5f3a\u884c\u51b2\u7834\u5939\u51fb2+1\u4e86\uff1f15\u4e2d12\uff0c\u6012\u780d31\u5206\u4e86\uff1f</p><p><br></p><p>\u90a3\u6211\u5c31\u4e0d\u660e\u767d\u4e86\uff0c\u8fd9\u54e5\u4eec\u662f\u600e\u4e48\u843d\u9009\u7684\u5462\uff1f</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bca786b5e79c9ed24ee8b50a42248d74_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"210\" data-rawheight=\"186\" class=\"content_image\" width=\"210\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='210'%20height='186'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"210\" data-rawheight=\"186\" class=\"content_image lazy\" width=\"210\" data-actualsrc=\"https://pic4.zhimg.com/v2-bca786b5e79c9ed24ee8b50a42248d74_b.jpg\"></figure><p><br></p><p><br></p><p>\u731b\u9f99\u8fd9\u5e2e\u4f4e\u987a\u4f4d\u751a\u81f3\u843d\u9009\u79c0\u4eec\uff0c\u4f60\u4eec\u8fd9\u4e48\u5f3a\uff0c\u4f1a\u8ba9\u5176\u4ed6\u7403\u961f\u7ecf\u7406\u6b32\u54ed\u65e0\u6cea\u7684\u554a...</p><p><br></p><p>\u7279\u4f26\u65af-\u6234\u7ef4\u65af\u6253\u4e8650\u573aNBA\u6bd4\u8d5b\u4e86\uff0c\u9664\u4e8610\u6708\u4efd\uff0c\u7279\u4f26\u65af\u90fd\u4fdd\u6301\u4e86\u9ad8\u6548\uff0c\u8fd9\u6837\u672c\u8bf4\u591a\u4e0d\u591a\uff0c\u8bf4\u5c11\u4e5f\u6ca1\u90a3\u4e48\u5c11\u3002\u4e5f\u8bb8\u518d\u6253\u6253\u8868\u73b0\u4f1a\u6709\u66f4\u591a\u7684\u8d77\u4f0f\u2014\u2014\u4e0a\u8d5b\u5b63\u4ee4\u4eba\u60ca\u8273\u7684\u9a6c\u5229\u514b-\u6bd4\u65af\u5229\u8ddf\u8499\u7279-\u83ab\u91cc\u65af\u8fd9\u8d5b\u5b63\u4e5f\u51fa\u73b0\u4e86\u5927\u5e45\u4e0b\u6ed1\uff0c\u4e00\u4e2a\u8d5b\u5b63\u7684\u9ad8\u5149\u7684\u786e\u8bc1\u636e\u4e0d\u8db3\u2014\u2014\u4f46\u73b0\u5728\u770b\uff0c\u8fd9\u7403\u5458\u6700\u540e\u5728NBA\u7acb\u8db3\uff0c\u6210\u4e3a\u4e00\u4e2a\u4f18\u8d28\u7684\u8f6e\u6362\u7403\u5458\uff0c\u6982\u7387\u8fd8\u662f\u5f88\u5927\u7684\uff0c\u6bd5\u7adf\uff0c\u731b\u9f99\u9635\u4e2d\u5c31\u6709\u4e0d\u5c11\u6848\u4f8b\u4e86\u3002<br></p><p><br></p><p>\u731b\u9f9910\u8fde\u80dc\u4e86\uff0c\u6062\u590d\u5065\u5eb7\u4e4b\u540e\uff0c\u8fd9\u652f\u7403\u961f\u5728\u5e38\u89c4\u8d5b\u7684\u6218\u529b\u8ddf\u4e0a\u8d5b\u5b63\u5c31\u6ca1\u533a\u522b\uff0c\u867d\u7136\u9c8d\u5a01\u5c14\u6700\u8fd1\u53c8\u4f24\u4e86\uff0c\u4f46\u731b\u9f99\u73b0\u5728\u7684\u9635\u5bb9\u6df1\u5ea6\uff0c\u597d\u50cf\u7f3a\u8c01\u90fd\u4e0d\u81f4\u547d\uff0c\u9664\u4e86\u7279\u4f26\u65af\u3001\u5e03\u6b47\u548c\u963f\u5974\u8bfa\u6bd4\uff0c\u731b\u9f99\u7403\u5458\u8fd9\u8d5b\u5b63\u7684\u7f3a\u9635\u90fd\u662f10\u573a\u8d77\u6b65\u7684\uff0c\u4f46\u4e5f\u6ca1\u8c01\u662f\u7edd\u5bf9\u65e0\u6cd5\u66ff\u4ee3\u7684\u5fc5\u9700\u54c1\u3002<br></p><p><br></p><p>\u4e4c\u6770\u91cc\u548c\u7eb3\u65af\uff0c\u771f\u7684\u5389\u5bb3\u5440\u3002</p><p><br></p><p><br></p><p><br></p><p>\u9876\u7ea7\u7403\u961f\uff0c\u591a\u5c11\u9700\u8981\u70b9\u7ea2\u5229\uff0c\u731b\u9f99\u5982\u6b64\uff0c\u96c4\u9e7f\u4ea6\u5982\u6b64\u3002\u8ddf\u731b\u9f99\u7684\u914d\u89d2\u7c7b\u4f3c\uff0c\u96c4\u9e7f\u4e5f\u6709\u4e00\u5e2e\u5404\u6000\u7edd\u6280\u7684\u677f\u51f3\u532a\u5f92\uff1a</p><p><br></p><p>\u4f60\u770b\u90a3\u4e2a\u5eb7\u8bfa\u987f\uff0c\u59a5\u59a5\u5916\u7ebf\u5c01\u76d6\u5c0f\u80fd\u624b\uff0c\u4f60\u5c31\u627e\u4e0d\u5230\u51e0\u4e2a\u50cf\u4ed6\u8fd9\u4e48\u4f1a\u76d6\u4e09\u5206\u7684\u7403\u5458\uff1b</p><p><br></p><p>\u4f60\u518d\u770b\u90a3\u4e2a\u4f0a\u5229\u4e9a\u7d22\u74e6\uff0c\u59a5\u59a5\u5b9e\u529b\u6f14\u6280\u6d3e\uff0c\u6bcf\u4e2a\u52a8\u4f5c\u90fd\u5728\u5168\u60c5\u6295\u5165\uff0c\u573a\u573a\u5965\u65af\u5361\u7ea7\u6454\u5012\uff1b</p><p><br></p><p>\u90a3\u4e2a\u79d1\u6c83\u5c14\u5927\u4f19\u719f\uff0c39\u5c81\u4e86\u4e09\u5206\u8fd8\u5c04\u90a3\u4e48\u51c6\uff0c\u9876\u7ea7\u65e0\u7403\u63a9\u62a4\u5927\u795e\uff0c\u5c31\u4fe9\u5b57\u2014\u2014\u81f4\u547d\uff01</p><p><br></p><p>\u90a3\u4e2a\u7126\u5fd7\u559c\u5462\uff0c\u6548\u7387\u9ad8\u5f97\u5413\u4eba\uff0c\u5927\u534a\u4e2a\u8d5b\u5b63\u6253\u5b8c\u4e86\uff0c\u771f\u5b9e\u547d\u4e2d\u738768.5%\uff0c\u8fd9\u4e5f\u592a\u4e0d\u771f\u5b9e\u4e86\u5427\u3002</p><p><br></p><p>\u5f53\u7136\uff0c\u96c4\u9e7f\u8fd9\u51e0\u4e2a\u677f\u51f3\u532a\u5f92\u4e5f\u5404\u6709\u7f3a\u70b9\uff0c\u67093\u7684\u6ca1D\uff0c\u6709D\u7684\u6ca13\uff0c\u4f0a\u5a03\u8981\u9760\u6f14\u6280\uff0c\u8fd8\u4e0d\u662f\u56e0\u4e3a\u786c\u78b0\u786c\u4e0d\u6d4e\u2014\u2014\u8981\u4e0d\u7136\uff0c\u4ed6\u4eec\u4e3a\u5565\u53ea\u662f\u677f\u51f3\u532a\u5f92\uff0c\u4e0d\u662f\u9996\u53d1\u7403\u5458\u5462\uff1f\u5e0c\u5c14\u5b9e\u529b\u5012\u662f\u6ca1\u8bdd\u8bf4\uff0c\u5c31\u662f\u4ece\u6765\u4e5f\u6ca1\u6709\u8fc7\u55dc\u8840\u7684\u4e3b\u653b\u6b32\u671b\u554a\u3002</p><p><br></p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3f9535180f7bec272183b2635767b5a2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"628\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb\" width=\"628\" data-original=\"https://pic1.zhimg.com/v2-3f9535180f7bec272183b2635767b5a2_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='628'%20height='389'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"628\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"628\" data-original=\"https://pic1.zhimg.com/v2-3f9535180f7bec272183b2635767b5a2_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3f9535180f7bec272183b2635767b5a2_b.jpg\"></figure><p><br></p><p><br></p><p>\u8fea\u6e29\u7434\u4f50\uff0c\u4e5f\u662f\u96c4\u9e7f\u7279\u70b9\u9c9c\u660e\u7684\u677f\u51f3\u532a\u5f92\u4e2d\u7684\u4e00\u5458\u3002\u8bf4\u5b9e\u8bdd\uff0c\u5982\u679c\u53ea\u662f\u770b\u6570\u636e\uff0c\u8fea\u6e29\u7434\u4f50\u8fdc\u4e0d\u50cf\u7279\u4f26\u65af-\u6234\u7ef4\u65af\u90a3\u6837\u7ed9\u4f60\u90a3\u4e48\u591a\u6fc0\u52a8\uff1a</p><p><br></p><p>\u56de\u5408\u5360\u6709\u738716.5%+\u771f\u5b9e\u547d\u4e2d\u738756.3%\uff0c\u6b63\u5e38\u7684\u914d\u89d2\u4ea7\u91cf\uff0c\u8fd8\u884c\u7684\u5f97\u5206\u6548\u7387\uff1b</p><p><br></p><p>\u6ca1\u6709\u591a\u5c11\u4f20\u63a7\u6570\u636e\u52a0\u6210\uff0c\u4e0d\u600e\u4e48\u5931\u8bef\u4f46\u4e5f\u6ca1\u591a\u5c11\u52a9\u653b\uff1b</p><p><br></p><p>\u6bcf36\u5206\u949f5.8\u6b21\u4e09\u5206\u51fa\u624b\uff0c34.2%\u4e09\u5206\u547d\u4e2d\u7387\uff0c\u867d\u7136\u5f53\u521d\u662f\u60f3\u4f5c\u4e3a\u5c04\u624b\u7528\u7684\uff0c\u7ed3\u679c\u53d1\u73b0\u5b8c\u5168\u4e0d\u81f4\u547d\uff0c\u505a\u7a7a\u95f4\u70b9\u56de\u5e94\u80fd\u529b\u96be\u8a00\u4f18\u8d28\u3002<br></p><p><br></p><p><br></p><p><br></p><p>\u90a3...\u90a3\u4e3a\u4ec0\u4e48\u8fea\u6e29\u7434\u4f50\u5728\u96c4\u9e7f\u7403\u8ff7\u4e2d\uff0c\u53e3\u7891\u7591\u4f3c\u4e0d\u9519\uff1f</p><p><br></p><p>\u7403\u8ff7\u4e0d\u559c\u6b22\u5934\u94c1\u7684\u7403\u5458\uff0c\u4f46\u90fd\u559c\u6b22\u6709\u5e72\u52b2\u7684\u7403\u5458\u3002\u5e72\u52b2\u548c\u5934\u94c1\u5c31\u5dee\u6beb\u5398\uff0c\u800c\u8fea\u6e29\u7434\u4f50\u7684\u6bd4\u8d5b\u80fd\u91cf\uff0c\u770b\u8d77\u6765\u66f4\u50cf\u53ef\u4ee5\u70b9\u71c3\u7403\u961f\u7684\u90a3\u79cd\uff0c\u800c\u4e0d\u662f\u6253\u51fb\u7403\u961f\u58eb\u6c14\u90a3\u79cd\u3002</p><p><br></p><p>\u662f\u7684\uff0c\u8fd9\u7403\u5458\uff0c\u771f\u7684\u633a\u80fd\u51b2\u950b\u7684\uff0c\u5feb\u653b\u662f\u4e00\u628a\u597d\u624b\uff0c\u5728\u96c4\u9e7f\uff0c\u4f60\u8981\u4f1a\u8fd9\u4e2a\uff0c\u90a3\u80af\u5b9a\u4e0d\u6101\u70ed\u8840\u753b\u9762\u3002</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-dac9619857b2f7044dde54fd37249931_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-dac9619857b2f7044dde54fd37249931_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-dac9619857b2f7044dde54fd37249931_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-dac9619857b2f7044dde54fd37249931_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-dac9619857b2f7044dde54fd37249931_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-dac9619857b2f7044dde54fd37249931_b.gif\"></figure><p><br></p><p><br></p><p>\u4f60\u8981\u770b\u5230\u961f\u4f0d\u91cc\u6709\u4eba\u628a\u81ea\u5df1\u8fd9\u6837\u5f80\u5929\u4e0a\u6254\uff0c\u90a3\u80af\u5b9a\u770b\u5f97\u5e26\u52b2\u3002</p><p><br></p><p>\u8fea\u6e29\u7434\u4f50\u653b\u7b50\u662f\u6709\u70b9\u5c0f\u52c7\u731b\uff0c\u9664\u4e86\u5feb\u653b\u548c\u5b9a\u70b9\u7a81\u7834\u4e24\u5927\u6d3b\u529b\u578b\u914d\u89d2\u5fc5\u4fee\u8bfe\u4e4b\u5916\uff0c\u4ed6\u9635\u5730\u6218\u90a3\u4e9b\u96f6\u6572\u788e\u6253\u7684\u4e3b\u653b\u56de\u5408\uff0c\u4e5f\u90fd\u80fd\u770b\u51fa\u5f80\u91cc\u51b2\u7684\u6f5c\u529b\u3002<br></p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-26cec0b42fad18b55ba2d705d5b9d0bd_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-26cec0b42fad18b55ba2d705d5b9d0bd_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-26cec0b42fad18b55ba2d705d5b9d0bd_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic1.zhimg.com/v2-26cec0b42fad18b55ba2d705d5b9d0bd_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-26cec0b42fad18b55ba2d705d5b9d0bd_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-26cec0b42fad18b55ba2d705d5b9d0bd_b.gif\"></figure><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-21035a5239329535f89dc4066c8bf00e_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic2.zhimg.com/v2-21035a5239329535f89dc4066c8bf00e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic2.zhimg.com/v2-21035a5239329535f89dc4066c8bf00e_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic2.zhimg.com/v2-21035a5239329535f89dc4066c8bf00e_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic2.zhimg.com/v2-21035a5239329535f89dc4066c8bf00e_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-21035a5239329535f89dc4066c8bf00e_b.gif\"></figure><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-482ef30a4767bc865086dc3f80e9a388_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic4.zhimg.com/v2-482ef30a4767bc865086dc3f80e9a388_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic4.zhimg.com/v2-482ef30a4767bc865086dc3f80e9a388_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic4.zhimg.com/v2-482ef30a4767bc865086dc3f80e9a388_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic4.zhimg.com/v2-482ef30a4767bc865086dc3f80e9a388_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-482ef30a4767bc865086dc3f80e9a388_b.gif\"></figure><p><br></p><p><br></p><p>\u56e0\u4e3a\u96c4\u9e7f\u6bd4\u8f83\u575a\u6301\u628a\u5185\u7ebf\u7403\u5458\u62c9\u5230\u4e09\u5206\u7ebf\u5916\uff0c\u5bf9\u540e\u573a\u7403\u5458\u6765\u8bf4\uff0c\u8fd9\u79cd\u501f\u63a9\u62a4\u5f80\u91cc\u5207\u7684\u624b\u9012\u624b\uff0c\u5c31\u53d8\u5f97\u5f88\u6709\u524d\u9014\u3002\u4e8e\u662f\uff0c\u8df3\u6295\u51c6\u661f\u5e73\u5e73\u7684\u8fea\u6e29\u7434\u4f50\uff0c\u4e00\u6837\u53ef\u4ee5\u6210\u4e3a\u4e00\u4e2a\u8fdb\u653b\u7aef\u6709\u91cd\u8981\u8d21\u732e\u7684\u914d\u89d2\uff0c\u800c\u4e14\u753b\u98ce\u4e5f\u663e\u5f97\u76f8\u5f53\u786c\u6717\u3002<br></p><p><br></p><p>\u5f53\u7136\uff0c\u8fd8\u6709\u6d3b\u529b\u6d41\u7403\u5458\u4e0d\u53ef\u7f3a\u5c11\u7684\u5207\u5165\u51b2\u677f\u3002</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cde14d8b05130eb4be7776c760ec8890_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-cde14d8b05130eb4be7776c760ec8890_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-cde14d8b05130eb4be7776c760ec8890_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-cde14d8b05130eb4be7776c760ec8890_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-cde14d8b05130eb4be7776c760ec8890_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cde14d8b05130eb4be7776c760ec8890_b.gif\"></figure><p><br></p><p><br></p><p>\u4ee5\u53ca\uff0c\u6709\u8fd9\u6837\u7684\u8eab\u4f53\u6761\u4ef6\uff0c\u8fea\u6e29\u7434\u4f50\u7684\u9632\u5b88\u81ea\u7136\u4e5f\u4e0d\u9519\u3002\u4ed6\u7684\u62a2\u65ad\u7387\u9ad8\u4e8e\u540c\u4f4d\u7f6e98%\u7684\u7403\u5458\uff0c\u90a3\u65ad\u7403\u753b\u98ce\uff0c\u81ea\u7136\u8fd8\u662f\u6d3b\u529b\u56db\u5c04\uff0c\u6fc0\u60c5\u6ee1\u6ee1\u4e86\u3002</p><p><br></p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-fca31a0e7f8c16c778dbc87c18018021_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-fca31a0e7f8c16c778dbc87c18018021_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-fca31a0e7f8c16c778dbc87c18018021_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='444'%20height='250'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"250\" data-thumbnail=\"https://pic3.zhimg.com/v2-fca31a0e7f8c16c778dbc87c18018021_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-fca31a0e7f8c16c778dbc87c18018021_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fca31a0e7f8c16c778dbc87c18018021_b.gif\"></figure><p><br></p><p><br></p><p>\u8fd9\u6837\u6253\u7403\u7684\u914d\u89d2\uff0c\u81ea\u7136\u4e5f\u5c31\u80fd\u8d62\u5f97\u7403\u8ff7\u7684\u8ba4\u53ef\u4e86\u3002</p><p><br></p><p>\u4e8b\u5b9e\u4e0a\uff0c\u8fea\u6e29\u7434\u4f50\u7684\u6d3b\u529b\u4e5f\u4e0d\u4ec5\u4ec5\u4f53\u73b0\u5728\u611f\u5b98\u4e0a\uff0c\u4ed6\u7684\u786e\u662f\u96c4\u9e7f\u8d62\u7403\u7684\u798f\u5c06\uff0con/off\u6570\u636e\u529b\u538b\u5b57\u6bcd\u54e5\u7684\u7537\u4eba\uff0c\u771f\u5b9e\u6b63\u8d1f\u503c\u4e5f\u6392\u5728\u4e86\u7403\u961f\u7b2c2\uff0c\u8fd9\u5f53\u7136\u6709\u4e00\u5b9a\u5076\u7136\u56e0\u7d20\u5566\uff0c\u4f46\u4e5f\u591a\u5c11\u80fd\u8bf4\u660e\uff0c\u80fd\u63d0\u4f9b\u6d3b\u529b\u548c\u80fd\u91cf\u7684\u914d\u89d2\uff0c\u5bf9\u6bd4\u8d5b\u662f\u5f88\u6709\u4ef7\u503c\u7684\u3002</p><p><br></p><p>\u6700\u91cd\u8981\u7684\u662f\uff0c\u8fea\u6e29\u7434\u4f50\u4e8c\u5e74\u7ea7\uff0c\u5f53\u524d\u85aa\u8d44290\u4e07\uff0c\u5bf9\u96c4\u9e7f\u6765\u8bf4\uff0c\u8fd9\u4e5f\u662f\u4e2a\u4e0d\u5927\u4e0d\u5c0f\u7684\u7ea2\u5229\u5427\u3002<br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3304e1fe53b8c9b0596e8bdd00c5f076_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"504\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic4.zhimg.com/v2-3304e1fe53b8c9b0596e8bdd00c5f076_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='504'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"504\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic4.zhimg.com/v2-3304e1fe53b8c9b0596e8bdd00c5f076_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3304e1fe53b8c9b0596e8bdd00c5f076_b.jpg\"></figure><p>\u4e1c\u90e8\u524d\u4e8c\uff0c\u4e00\u4e2a\u5728\u5f53\u5bb6\u6838\u5fc3\u51fa\u8d70\u7684\u60c5\u51b5\u4e0b\uff0c\u7ef4\u6301\u4e86\u9ad8\u6c34\u51c6\uff0c\u4e00\u4e2a\u5728\u4e1c\u90e8\u51b3\u8d5b\u5931\u5229\u540e\u66f4\u4e0a\u4e00\u5c42\u697c\uff0c\u5bf9\u603b\u51a0\u519b\u5956\u676f\u5fd7\u5728\u5fc5\u5f97\u3002\u8fd9\u4e24\u652f\u7403\u961f\u90fd\u4e0d\u662f\u5178\u578b\u7684\u6781\u5177\u5438\u5f15\u529b\u7684\u5927\u7403\u5e02\uff0c\u4ed6\u4eec\u6240\u4ef0\u4ed7\u7684\uff0c\u5c31\u662f\u6bd2\u8fa3\u7684\u773c\u5149\uff0c\u9887\u6709\u6210\u6548\u7684\u65b0\u4eba\u57f9\u517b\uff0c\u548c\u7ba1\u7406\u5c42\u5408\u7406\u7684\u64cd\u4f5c\uff0c\u8ba9\u4e00\u70b9\u4e00\u70b9\u79ef\u6512\u7684\u5c0f\u7ea2\u5229\uff0c\u5f62\u6210\u5de8\u5927\u7684\u5408\u529b\uff0c\u628a\u7403\u961f\u63a8\u5230\u4e86\u4e0e\u5806\u780c\u5de8\u5934\u578b\u7684\u8c6a\u95e8\u7403\u961f\u76f8\u5f53\uff0c\u751a\u81f3\u66f4\u9ad8\u7684\u4f4d\u7f6e\uff0c\u771f\u5f97\u8bf4\uff1a</p><p>\u200b<br></p><p><b>\u4e86\u4e0d\u8d77\u554a\uff01</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e448e3dc5df60d9b73eb88eeb4c88ca9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"494\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-e448e3dc5df60d9b73eb88eeb4c88ca9_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='494'&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"494\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-e448e3dc5df60d9b73eb88eeb4c88ca9_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e448e3dc5df60d9b73eb88eeb4c88ca9_b.jpg\"></figure><p></p>",
+			"column": {
+				"updated": 1500176059,
+				"last_article": {
+					"updated": 1580721422,
+					"created": 1580721420
+				},
+				"author": {
+					"headline": "",
+					"avatar_url": "https://pic4.zhimg.com/aadd7b895_s.jpg",
+					"name": "\u533f\u540d\u7528\u6237",
+					"url": "",
+					"url_token": "",
+					"type": "people",
+					"user_type": "people",
+					"id": "0"
+				},
+				"url": "https://api.zhihu.com/columns/jingyimo",
+				"comment_permission": "all",
+				"title": "\u9759\u6613\u58a8",
+				"intro": "\u4ece\u53e6\u4e00\u4e2a\u89d2\u5ea6\u770bNBA\uff0c\u804a\u804a\u4f60\u53ef\u80fd\u6ca1\u6ce8\u610f\u5230\u7684\u4e8b\u513f",
+				"image_url": "https://pic2.zhimg.com/v2-96511d3f2e2c5fbaa7da7cd98da4d702_b.jpg",
+				"is_following": false,
+				"type": "column",
+				"id": "jingyimo"
+			},
+			"comment_count": 22,
+			"image_url": "https://pic4.zhimg.com/50/v2-79931a0773e916fbd2d3a1a14442189e_hd.jpg",
+			"linkbox": {
+				"url": "",
+				"category": "",
+				"pic": "",
+				"title": ""
+			},
+			"excerpt_new": "\u8981\u662f\u4eca\u5929\u8fd9\u7bc7\u6587\u7ae0\u9996\u53d1\u5728UC\uff0c\u6211\u5c31\u628a\u9898\u76ee\u6539\u6210\uff0c\u201c\u9ec4\u91d1\u62fc\u56fe\uff01\u82e5\u6e56\u4eba\u5f97\u6b64\u4eba\uff0c\u9738\u4e1a\u53ef\u6210\uff01\u201d\uff0c\u90a3\u9605\u8bfb\u91cf\uff0c\u80af\u5b9a\u54d7\u54d7\u7684~ \u5f53\u7136\u5566\uff0c\u53ef\u60dc\u6362\u4e0d\u5f97\uff0c\u4f55\u51b5\u6e56\u4eba\u7f3a\u7684\u89d2\u8272\u4e5f\u6709\u70b9\u591a\uff0c\u4e00\u4e2a\u201c\u9ec4\u91d1\u62fc\u56fe\u201d\u5c31\u5168\u89e3\u51b3\u53ef\u4e0d\u5bb9\u6613\u3002 \u7279\u4f26\u65af-\u6234\u7ef4\u65af\uff0c\u731b\u9f99\u672c\u8d5b\u5b63\u66ff\u8865\u65b0\u63f4\u4e09\u6770\u4e4b\u4e00\uff0c\u4e5f\u662f\u4e09\u6770\u4e2d\u6700\u4e0d\u2026",
+			"excerpt_title": "",
+			"preview_text": "",
+			"voting": 0,
+			"type": "article"
+		},
+		"show_actor_time": true,
+		"action_text_tpl": "{}\u53d1\u8868\u4e86\u6587\u7ae0",
+		"brief": "{\"source\": \"TS\", \"type\": \"article\", \"id\": 104873568}",
+		"updated_time": 1580721421,
+		"verb": "MEMBER_CREATE_ARTICLE",
+		"actors": [{
+			"is_followed": false,
+			"type": "people",
+			"name": "\u9759\u6613\u58a8",
+			"headline": "\u516c\u4f17\u53f7\uff1a\u9759\u6613\u58a8\uff08jingyimo456\uff09",
+			"url_token": "jingyimo",
+			"user_type": "people",
+			"vip_info": {
+				"is_vip": true,
+				"vip_icon": {
+					"url": "https://pic3.zhimg.com/50/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png",
+					"night_mode_url": "https://pic3.zhimg.com/50/v2-c9686ff064ea3579730756ac6c289978_r.png"
+				}
+			},
+			"url": "https://api.zhihu.com/people/f81831bea44f2c027bf662268bf760b2",
+			"avatar_url": "https://pic3.zhimg.com/50/v2-e25f2a01779b031d1cb0a5352058441e_s.jpg",
+			"is_following": false,
+			"is_org": false,
+			"gender": 1,
+			"badge": [],
+			"id": "f81831bea44f2c027bf662268bf760b2"
+		}],
+		"attached_info": "CtcBCLTemY6+pvO0YhAHGgkxMTE0MzU1NzIgjMrf8QUorgEwFkACShEKAU0SCDQ1NjM5Njk4GAAgAFIVbWVtYmVyX2NyZWF0ZV9hcnRpY2xlWgU0NTg1M3IJMTA0ODczNTY4eACCAURodHRwczovL3BpYzQuemhpbWcuY29tLzUwL3YyLTc5OTMxYTA3NzNlOTE2ZmJkMmQzYTFhMTQ0NDIxODllX2hkLmpwZ4oBCGppbmd5aW1vqgEGZm9sbG93sgEIdGltZWxpbmW6AQxzdWJzY3JpcHRpb24=",
+		"offset": 2,
+		"created_time": 1580721421,
+		"type": "feed",
+		"id": "2_1580892000.81"
+	}, {
+		"count": 1,
+		"uninterest_reasons": [{
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "20030456",
+			"reason_text": "\u9b54\u517d\uff08\u7535\u5f71\uff09",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19555035",
+			"reason_text": "\u9b54\u517d\u4e89\u9738 3\uff08Warcraft 3\uff09",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "20135524",
+			"reason_text": "\u9b54\u517d\u4e89\u9738\uff08\u6e38\u620f\uff09",
+			"object_type": "topic"
+		}, {
+			"reason_type": "creator",
+			"reason_id": 2,
+			"object_token": "0038d419ac51fce17b5830c8cbe3c9f2",
+			"reason_text": "\u53ea\u4f1a\u62c9\u7a00\u521b\u4f5c\u7684\u5185\u5bb9",
+			"object_type": "people"
+		}],
+		"target": {
+			"relevant_info": {
+				"relevant_type": "",
+				"is_relevant": false,
+				"relevant_text": ""
+			},
+			"relationship": {
+				"voting": 0,
+				"is_thanked": false,
+				"is_nothelp": false,
+				"upvoted_followee_ids": []
+			},
+			"mark_infos": [],
+			"excerpt": "2\u67085\u53f7\u66f4\u65b0\uff0c\u9b54\u517d\u4e89\u97383\u91cd\u7f6e\u7248\u6536\u8d27\u4e24\u4e07\u4e2a0\u5206\uff0c\u6253\u7834mc\u8bb0\u5f55\uff0c\u6210\u4e3a\u73a9\u5bb6\u8bc4\u5206\u4e2d\u6700\u70c2\u6e38\u620f\u3002\u751a\u81f3\u4e3a\u4e86\u4fdd\u6301\u5b83\u6700\u70c2\u7684\u5730\u4f4d\uff0c\u5f88\u591a\u73a9\u5bb6\u53bb\u7ed9\u539f\u6765\u6700\u70c2\u7684\u6e38\u620f\u523710\u5206\u30022\u67081\u53f7\u4e0b\u5348\u518d\u66f4\u65b0\uff0c\u73b0\u5728\u73a9\u5bb6\u8bc4\u5206\u5df2\u7ecf\u8dcc\u81f30.7\u4e86\u56e0\u4e3a\u66b4\u96ea\u73b0\u5728\u5df2\u7ecf\u4e0d\u8981\u8138\u4e86\u3002\u81ea\u4ece\u9b54\u517d\u4e16\u754c\u83b7\u5f97\u5de8\u5927\u6210\u529f\u4ee5\u540e\uff0c\u66b4\u96ea\u6574\u4e2a\u516c\u53f8\u5c31\u8eba\u5728\u529f\u52b3\u7c3f\u4e0a\u7761\u5927\u89c9\u3002\u7528\u811a\u505a\u6e38\u620f\uff0c\u603b\u611f\u89c9\u6211\u968f\u4fbf\u505a\u4e2a\u6e38\u620f\u5c31\u662f<b>\u4f20\u4e16\u7ecf\u5178\u3002</b>\u5728\u6e38\u620f\u8fd8\u6ca1\u53d1\u552e\u7684\u65f6\u5019\u81ea\u6211\u5ba3\u4f20\uff0c\u8bf4\u6211\u4eec\u505a\u7684\u6e38\u620f\u5c31\u662f\u53f2\u8bd7\uff0c\u4f20\u5947\uff0c\u7ecf\u5178\uff0c\u4e00\u6b3e\u6e38\u620f\u5982\u4f55\uff0c\u2026",
+			"created_time": 1578448832,
+			"preview_type": "default",
+			"id": 966593874,
+			"is_copyable": true,
+			"author": {
+				"is_followed": false,
+				"type": "people",
+				"name": "\u53ea\u4f1a\u62c9\u7a00",
+				"headline": "\u7f51\u7edc\u4e0a\u7684\u4e1c\u897f\u4e0d\u8981\u592a\u8ba1\u8f83\uff0c\u5bf9\u9762\u662f\u4eba\u662f\u72d7\u4f60\u90fd\u4e0d\u77e5\u9053",
+				"url_token": "zhi-hui-la-xi",
+				"user_type": "people",
+				"vip_info": null,
+				"url": "https://api.zhihu.com/people/0038d419ac51fce17b5830c8cbe3c9f2",
+				"avatar_url": "https://pic2.zhimg.com/50/v2-284ccd00236b9afed126df7ce910b78b_s.jpg",
+				"is_following": false,
+				"is_org": false,
+				"gender": 1,
+				"badge": [],
+				"id": "0038d419ac51fce17b5830c8cbe3c9f2"
+			},
+			"url": "https://api.zhihu.com/answers/966593874",
+			"comment_permission": "all",
+			"question": {
+				"author": {
+					"is_followed": false,
+					"type": "people",
+					"name": "randomname",
+					"headline": "",
+					"url_token": "su-jia-de",
+					"user_type": "people",
+					"vip_info": null,
+					"url": "https://api.zhihu.com/people/50e1b09fca33785134c2867eeadf4aa2",
+					"avatar_url": "https://pic4.zhimg.com/50/v2-72b4f950b5155f51a8894f5c0b987c5d_s.jpg",
+					"is_following": false,
+					"is_org": false,
+					"gender": 0,
+					"badge": [],
+					"id": "50e1b09fca33785134c2867eeadf4aa2"
+				},
+				"title": "\u4e3a\u4ec0\u4e48\u66b4\u96ea\u516c\u53f8\u9009\u62e9\u91cd\u5236\u300a\u9b54\u517d\u4e89\u9738III\u300b\uff0c\u800c\u4e0d\u9009\u62e9\u5236\u4f5c\u300a\u9b54\u517d\u4e89\u9738IV\u300b\uff1f",
+				"url": "https://api.zhihu.com/questions/301775212",
+				"created": 1541682866,
+				"excerpt": "",
+				"answer_count": 144,
+				"bound_topic_ids": [198116, 1609, 162331],
+				"comment_count": 5,
+				"is_following": false,
+				"question_type": "normal",
+				"follower_count": 242,
+				"type": "question",
+				"id": 301775212
+			},
+			"updated_time": 1580871444,
+			"content": "<p>2\u67085\u53f7\u66f4\u65b0\uff0c\u9b54\u517d\u4e89\u97383\u91cd\u7f6e\u7248\u6536\u8d27\u4e24\u4e07\u4e2a0\u5206\uff0c\u6253\u7834mc\u8bb0\u5f55\uff0c\u6210\u4e3a\u73a9\u5bb6\u8bc4\u5206\u4e2d\u6700\u70c2\u6e38\u620f\u3002\u751a\u81f3\u4e3a\u4e86\u4fdd\u6301\u5b83\u6700\u70c2\u7684\u5730\u4f4d\uff0c\u5f88\u591a\u73a9\u5bb6\u53bb\u7ed9\u539f\u6765\u6700\u70c2\u7684\u6e38\u620f\u523710\u5206\u3002</p><p>2\u67081\u53f7\u4e0b\u5348\u518d\u66f4\u65b0\uff0c\u73b0\u5728\u73a9\u5bb6\u8bc4\u5206\u5df2\u7ecf\u8dcc\u81f30.7\u4e86</p><p>\u56e0\u4e3a\u66b4\u96ea\u73b0\u5728\u5df2\u7ecf\u4e0d\u8981\u8138\u4e86\u3002</p><p>\u81ea\u4ece\u9b54\u517d\u4e16\u754c\u83b7\u5f97\u5de8\u5927\u6210\u529f\u4ee5\u540e\uff0c\u66b4\u96ea\u6574\u4e2a\u516c\u53f8\u5c31\u8eba\u5728\u529f\u52b3\u7c3f\u4e0a\u7761\u5927\u89c9\u3002\u7528\u811a\u505a\u6e38\u620f\uff0c\u603b\u611f\u89c9\u6211\u968f\u4fbf\u505a\u4e2a\u6e38\u620f\u5c31\u662f<b>\u4f20\u4e16\u7ecf\u5178\u3002</b></p><p>\u5728\u6e38\u620f\u8fd8\u6ca1\u53d1\u552e\u7684\u65f6\u5019\u81ea\u6211\u5ba3\u4f20\uff0c\u8bf4\u6211\u4eec\u505a\u7684\u6e38\u620f\u5c31\u662f\u53f2\u8bd7\uff0c\u4f20\u5947\uff0c\u7ecf\u5178\uff0c\u4e00\u6b3e\u6e38\u620f\u5982\u4f55\uff0c\u4ece\u6765\u90fd\u662f\u53d1\u552e\u4ee5\u540e\u73a9\u5bb6\u7ed9\u7684\u8bc4\u8bed<b>\u4ed6\u4eec\u81ea\u5df1\u5f80\u81ea\u5df1\u5934\u4e0a\u5957</b>\uff01</p><p>\u6697\u9ed12\u6253\u6b7b\u4e0d\u51fa\u590d\u523b\u7248\uff0c\u4e3a\u4ec0\u4e48\uff1f\u56e0\u4e3a\u6697\u9ed12\u6bd4\u6697\u9ed13\u597d\u592a\u591a\uff0c\u56e0\u4e3a\u6697\u9ed12\u662f\u5317\u65b9\u66b4\u96ea\u505a\u7684\uff0c\u66b4\u96ea\u672c\u90e8\u62fe\u4eba\u7259\u6167\u505a\u7684\u6697\u9ed13\u90fd\u80fd\u7ed9\u641e\u7838\u4e86\u3002\u53ea\u8981\u6697\u9ed12\u51fa\u590d\u523b\u7248\uff0c\u7edd\u5bf9\u662f\u5206\u5206\u949f\u6253\u6697\u9ed13\u7684\u8138\uff0c\u6240\u4ee5\u5e72\u8106\u5c31\u8bf4\u6bcd\u76d8\u4e22\u5931\u4e86\u3002</p><p>\u66f4\u522b\u8bf4\u56e0\u4e3a\u66b4\u96ea\u81ea\u8eab\u50b2\u6162\u7684\u6001\u5ea6\uff0c\u5f7b\u5e95\u4e22\u6389\u4e86MOBA\u7535\u7ade\u5e02\u573a\u3002</p><p>\u4e3a\u4ec0\u4e48\u4e0d\u51fa\u9b54\u517d4\uff1f\u56e0\u4e3a\u51fa\u6765\u80af\u5b9a\u4e5f\u662f\u88ab\u4eba\u9a82\u3002\u9b54\u517d\u4e16\u754c\u5df2\u7ecf\u628a\u827e\u6cfd\u62c9\u65af\u7684\u6545\u4e8b\u7ed9\u8bb2\u70c2\u4e86\uff0c\u4ec0\u4e48\u514b\u82cf\u9c81\uff0c\u591a\u5143\u5b87\u5b99\u90fd\u51fa\u6765\u4e86\uff0c\u8001\u73a9\u5bb6\u9a82\u58f0\u54cd\u5f7b\u5168\u7403\u3002</p><p>\u4f60\u66b4\u96ea\u53c8\u4e0d\u662f\u5361\u5a4a\u8fd9\u4e2a\u7092\u51b7\u996d\u4e13\u4e1a\u6237\uff0c\u5c45\u7136\u4e5f\u5f00\u59cb\u590d\u523b\u9b54\u517d3\u4e86\uff0c\u4e3a\u5565\uff1f\u662f\u771f\u7684\u60f3\u4e0d\u5230\u8be5\u505a\u5565\u6e38\u620f\u4e86\u3002</p><p>\u6211\u627f\u8ba4\u66b4\u96ea\u66fe\u7ecf\u7684\u8f89\u714c\uff0c\u4f46\u662f\u5e0c\u671b\u5927\u5bb6\u4e5f\u80fd\u627f\u8ba4\u73b0\u5728\u66b4\u96ea\u65e9\u5df2\u8f89\u714c\u4e0d\u518d\uff0c\u53ea\u662f\u66b4\u96ea\u7684\u68a6\u8fd8\u6ca1\u9192\u3002</p><p><br></p><p><b>2\u67081\u65e5\u91cd\u5927\u66f4\u65b0</b></p><blockquote>\u4e07\u4f17\u77a9\u76ee\u7684\u66b4\u96ea\u91ce\u5fc3\u4e4b\u4f5c\u300a\u9b54\u517d\u4e89\u97383\uff1a\u91cd\u5236\u7248\uff08Warcraft III: Reforged\uff09\u300b\u5df2\u4e8e1\u670829\u65e5\u6b63\u5f0f\u4e0a\u7ebf\uff0c\u6b64\u524d\u6709\u4e0d\u5c11\u73a9\u5bb6\u5bf9\u4e8e\u8fd9\u6b3e\u7ecf\u5178\u91cd\u5236\u4e4b\u4f5c\u62a5\u4ee5\u70ed\u5207\u7684\u671f\u76fc\uff0c\u7136\u800c\u8bb8\u591a\u73a9\u5bb6\u5728\u8fdb\u884c\u521d\u6b21\u4f53\u9a8c\u540e\u90fd\u5bf9\u8fd9\u6b3e\u4f5c\u54c1\u62a5\u4ee5\u5dee\u8bc4\uff0c\u56fd\u5916\u8bc4\u5206\u7f51\u7ad9MC\u4e0a\u73a9\u5bb6\u8bc4\u5206\u66b4\u8dcc\u81f31\u5206\u3002</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-57be3383d9654a798a4f9d1da6263a6b_b.jpg\" data-rawwidth=\"584\" data-rawheight=\"301\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-0282c7754c05b4c26da5edc832ab1aaa_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"584\" data-original=\"https://pic3.zhimg.com/v2-57be3383d9654a798a4f9d1da6263a6b_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='584'%20height='301'&gt;&lt;/svg&gt;\" data-rawwidth=\"584\" data-rawheight=\"301\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-0282c7754c05b4c26da5edc832ab1aaa_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"584\" data-original=\"https://pic3.zhimg.com/v2-57be3383d9654a798a4f9d1da6263a6b_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-57be3383d9654a798a4f9d1da6263a6b_b.jpg\"></figure><blockquote>\u3000\u3000\u5927\u5bb6\u6765\u5bf9\u6bd4\u4e00\u4e0b\u661f\u9645\u4e89\u9738\u91cd\u5236\u7248\u4ee5\u53ca\u5e1d\u56fd\u65f6\u4ee3\u91cd\u5236\u7248\uff0c\u5927\u5bb6\u90fd\u662f\u7092\u51b7\u996d\uff0c\u4e3a\u5565\u9b54\u517d\u91cd\u5236\u7248\u7684\u8bc4\u5206\u53ef\u4ee5\u7a81\u7834\u4e0b\u9650\uff1f<br>\u3000\u3000\u300a\u9b54\u517d\u4e89\u97383\uff1a\u91cd\u5236\u7248\u300b\u7684\u753b\u9762\u76f8\u8f83\u4e8e\u539f\u7248\u786e\u5b9e\u6709\u6240\u63d0\u5347\uff0c\u4f46\u4e5f\u5341\u5206\u6709\u9650\uff0c\u5bf9\u6bd4\u540c\u65f6\u4ee3\u5176\u5b83\u6e38\u620f\u7684\u753b\u9762\u800c\u8a00\uff0c\u5e76\u4e0d\u7b97\u5341\u5206\u7a81\u51fa\uff0c\u751a\u81f3\u6bd4\u4e4b\u65e9\u671f\u7684\u8bd5\u73a9\u7248\u8fd8\u8981\u6709\u6240\u7f29\u51cf\uff0c\u81f3\u4e8e\u5b98\u65b9\u6b64\u524d\u6240\u8bf4\u7684\u5927\u89c4\u6a21\u4f18\u5316\u4ee5\u53ca\u65b0\u5267\u60c5\uff0c\u66f4\u662f\u6ca1\u6709\u5151\u73b0\u3002<br>\u3000\u3000\u800c\u73a9\u5bb6\u8ba8\u8bba\u5df2\u4e45\u7684\u81ea\u5b9a\u4e49\u6539\u952e\u95ee\u9898\uff0c\u300a\u9b54\u517d\u4e89\u97383\uff1a\u91cd\u5236\u7248\u300b\u4f9d\u7136\u6ca1\u6709\u7ed9\u51fa\u4e00\u4e2a\u5f88\u597d\u7684\u65b9\u6848\uff0c\u73a9\u5bb6\u4f9d\u7136\u9700\u8981\u901a\u8fc7\u4fee\u6539\u6e38\u620f\u7684\u6839\u76ee\u5f55\u6765\u5b8c\u6210\uff0c\u8fde\u8fd9\u79cd\u6280\u672f\u95ee\u9898\u90fd\u6ca1\u6709\u89e3\u51b3\uff0c\u4e5f\u602a\u4e0d\u5f97\u73a9\u5bb6\u4f1a\u5982\u6b64\u4e0d\u6ee1\u3002<br>\u3000\u3000\u7136\u540e\u5f00\u653e\u6d4b\u8bd5\u4e4b\u524d\u653e\u51fa\u7684\u4e0d\u5c11\u7cbe\u5f69CG\u7686\u6ca1\u6709\u51fa\u73b0\u5728\u6e38\u620f\u4e2d\uff0c\u8ba9\u73a9\u5bb6\u4eec\u5927\u547c\u4e0a\u5f53\u53d7\u9a97\u3002<br>\u3000\u3000\u6700\u540e\u300a\u9b54\u517d\u4e89\u97383\u300b\u4e4b\u6240\u4ee5\u80fd\u591f\u957f\u76db\u4e0d\u8870\uff0c\u5176\u4e3b\u8981\u539f\u56e0\u8fd8\u5728\u4e8e\u73a9\u5bb6\u81ea\u5236\u7684\u5404\u79cdRPG\u5730\u56fe\uff0c<b>\u800c\u6700\u8fd1\u66b4\u96ea\u8fd8\u5bf9\u81ea\u5b9a\u4e49\u5730\u56fe\u6761\u6b3e\u4e5f\u505a\u51fa\u4e86\u53d8\u52a8\uff0c\u4ee5\u540e\u66b4\u96ea\u53ef\u4ee5\u5bf9\u81ea\u5b9a\u4e49\u5730\u56fe\u6c38\u4e45\u62e5\u6709\u7248\u6743\u5e76\u53ef\u91c7\u53d6\u4efb\u4f55\u4e3e\u52a8\uff0c\u800c\u81ea\u5b9a\u4e49\u5730\u56fe\u4e0d\u80fd\u5728\u5176\u4ed6\u4efb\u4f55\u5730\u65b9\u91cd\u7f6e\u51fa\u4e00\u4e2a\u72ec\u7acb\u7248\u672c\uff0c\u800c\u66b4\u96ea\u66f4\u65b0\u7684\u8fd9\u6761\u9738\u738b\u6761\u6b3e\u610f\u5473\u7740\u5730\u56fe\u4f5c\u8005\u5f88\u96be\u51fa\u4eba\u5934\u5730\uff0c\u4ee5\u540e\u4e0d\u4f1a\u6709\u7b2c\u4e8c\u4e2aDOTA\u51b0\u86d9\u4e86\uff0c\u76f8\u4fe1\u8bb8\u591a\u4f5c\u8005\u90fd\u4f1a\u5931\u53bb\u52a8\u529b\u5427\uff1f</b></blockquote><p>\u8f6c\u81ea\u6e38\u4fa0\u7f51</p><p><br></p><p>\u6240\u4ee5\u8bf4\u8001\u5b50\u63d0\u524d\u9a82\u7684\u771f\u662f\u592a\u7cbe\u51c6\u4e86\u3002\u66b4\u96ea\u5230\u4eca\u5929\u4ecd\u7136\u89c9\u5f97\u5f53\u5e74\u9519\u8fc7Dota\u662f\u56e0\u4e3a\u5236\u4f5c\u8005\u7684\u201c\u4e0d\u5fe0\u5fc3\u201d\u5bfc\u81f4\u7684\uff0c\u800c\u4e0d\u662f\u66b4\u96ea\u81ea\u5df1\u778e\u4e86\u773c\u770b\u4e0d\u8d77\u8fd9\u79cd\u81ed\u9c7c\u70c2\u867e\u3002\u73b0\u5728\u4e48\u597d\u4e86\uff0c\u6761\u6b3e\u6539\u4e00\u6539\uff0c\u66b4\u96ea\u4e48\u5f7b\u5e95\u8eba\u4e0b\u4e86\uff0c\u4f60\u5c31\u662f\u505a\u51fa\u4e2a\u4e16\u7eaa\u795e\u4f5c\u51fa\u6765\uff0c\u6211\u66b4\u96ea\u8fd8\u662f\u4f60\u7684\u7238\u7238\u3002</p><p>\u6211\u8bf4\u53e5\u5b9e\u8bdd\uff0c\u5c31\u66b4\u96ea\u8fd9\u7fa4\u4eba\u7684\u773c\u5149\uff0c\u6362\u5f53\u5e74\u4e5f\u53ea\u80fd\u628adota\u641e\u6b7b\u6389\uff0c\u6709\u518d\u597d\u7684\u521b\u610f\u4e5f\u4e0d\u9876\u7528\u3002\u4e3a\u4ec0\u4e48\uff1f</p><p><b>\u56e0\u4e3a\u66b4\u96ea\u53ea\u60f3\u5f53\u7238\u7238\u561b\uff01</b></p>",
+			"comment_count": 53,
+			"voteup_count": 385,
+			"reshipment_settings": "allowed",
+			"thanks_count": 28,
+			"excerpt_new": "2\u67085\u53f7\u66f4\u65b0\uff0c\u9b54\u517d\u4e89\u97383\u91cd\u7f6e\u7248\u6536\u8d27\u4e24\u4e07\u4e2a0\u5206\uff0c\u6253\u7834mc\u8bb0\u5f55\uff0c\u6210\u4e3a\u73a9\u5bb6\u8bc4\u5206\u4e2d\u6700\u70c2\u6e38\u620f\u3002\u751a\u81f3\u4e3a\u4e86\u4fdd\u6301\u5b83\u6700\u70c2\u7684\u5730\u4f4d\uff0c\u5f88\u591a\u73a9\u5bb6\u53bb\u7ed9\u539f\u6765\u6700\u70c2\u7684\u6e38\u620f\u523710\u5206\u3002 2\u67081\u53f7\u4e0b\u5348\u518d\u66f4\u65b0\uff0c\u73b0\u5728\u73a9\u5bb6\u8bc4\u5206\u5df2\u7ecf\u8dcc\u81f30.7\u4e86 \u56e0\u4e3a\u66b4\u96ea\u73b0\u5728\u5df2\u7ecf\u4e0d\u8981\u8138\u4e86\u3002 \u81ea\u4ece\u9b54\u517d\u4e16\u754c\u83b7\u5f97\u5de8\u5927\u6210\u529f\u4ee5\u540e\uff0c\u66b4\u2026",
+			"preview_text": "",
+			"can_comment": {
+				"status": true,
+				"reason": ""
+			},
+			"type": "answer",
+			"thumbnail": ""
+		},
+		"show_actor_time": true,
+		"action_text_tpl": "{}\u8d5e\u540c\u4e86\u56de\u7b54",
+		"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 966593874}",
+		"updated_time": 1580700551,
+		"verb": "MEMBER_VOTEUP_ANSWER",
+		"actors": [{
+			"is_followed": false,
+			"type": "people",
+			"name": "\u9759\u6613\u58a8",
+			"headline": "\u516c\u4f17\u53f7\uff1a\u9759\u6613\u58a8\uff08jingyimo456\uff09",
+			"url_token": "jingyimo",
+			"user_type": "people",
+			"vip_info": {
+				"is_vip": true,
+				"vip_icon": {
+					"url": "https://pic3.zhimg.com/50/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png",
+					"night_mode_url": "https://pic3.zhimg.com/50/v2-c9686ff064ea3579730756ac6c289978_r.png"
+				}
+			},
+			"url": "https://api.zhihu.com/people/f81831bea44f2c027bf662268bf760b2",
+			"avatar_url": "https://pic3.zhimg.com/50/v2-e25f2a01779b031d1cb0a5352058441e_s.jpg",
+			"is_following": false,
+			"is_org": false,
+			"gender": 1,
+			"badge": [],
+			"id": "f81831bea44f2c027bf662268bf760b2"
+		}],
+		"attached_info": "CpMBCLTemY6+pvO0YhAEGgkyMDU4MDk0MDQgwO/U8AUogQMwNUADShEKAU0SCDQ1NjM5Njk4GAAgAFIUbWVtYmVyX3ZvdGV1cF9hbnN3ZXJaCDI5MzM3NDAwcgk5NjY1OTM4NzR4AIoBCTMwMTc3NTIxMqoBBmZvbGxvd7IBCHRpbWVsaW5lugEMc3Vic2NyaXB0aW9u",
+		"offset": 3,
+		"created_time": 1580700551,
+		"type": "feed",
+		"id": "3_1580892000.81"
+	}, {
+		"count": 1,
+		"uninterest_reasons": [{
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "20677093",
+			"reason_text": "\u9b54\u517d\u4e89\u9738 3 \u91cd\u5236\u7248",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19563451",
+			"reason_text": "\u7535\u5b50\u7ade\u6280",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19552397",
+			"reason_text": "\u66b4\u96ea\u5a31\u4e50 (Blizzard)",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19555035",
+			"reason_text": "\u9b54\u517d\u4e89\u9738 3\uff08Warcraft 3\uff09",
+			"object_type": "topic"
+		}, {
+			"reason_type": "creator",
+			"reason_id": 2,
+			"object_token": "461d983ddd22f1ddaed724ed73ba90ee",
+			"reason_text": "\u6478\u9c7c\u98de\u5f39\u521b\u4f5c\u7684\u5185\u5bb9",
+			"object_type": "people"
+		}],
+		"target": {
+			"author": {
+				"is_followed": false,
+				"type": "people",
+				"name": "\u6478\u9c7c\u98de\u5f39",
+				"headline": "\u63d0\u95ee\u7efc\u5408\u75c7\u521d\u671f",
+				"url_token": "dcc-67-58",
+				"user_type": "people",
+				"vip_info": null,
+				"url": "https://api.zhihu.com/people/461d983ddd22f1ddaed724ed73ba90ee",
+				"avatar_url": "https://pic4.zhimg.com/50/v2-6c1bfa68187b6cd6a5863fdaf1b60740_s.jpg",
+				"is_following": false,
+				"is_org": false,
+				"gender": 1,
+				"badge": [],
+				"id": "461d983ddd22f1ddaed724ed73ba90ee"
+			},
+			"relationship": {
+				"is_author": false
+			},
+			"title": "\u5982\u4f55\u770b\u5f85\u300a\u9b54\u517d\u4e89\u9738 3\u300b\u9ad8\u6e05\u91cd\u5236\u7248\u8bc4\u5206\u8dcc\u81f3 0.5 \u5206\uff1f",
+			"url": "https://api.zhihu.com/questions/368788100",
+			"created": 1580447114,
+			"excerpt": "\u5728\u56fd\u5916\u8457\u540d\u8bc4\u5206\u7f51\u7ad9Metacritic\u4e2d\uff0cWar3 \u91cd\u5236\u7248\u88ab\u73a9\u5bb6\u5237\u5230\u4e86 0.5 \u5206\u3002War3 \u9ad8\u6e05\u91cd\u5236\u2026",
+			"detail": "<p>\u5728\u56fd\u5916\u8457\u540d\u8bc4\u5206\u7f51\u7ad9Metacritic\u4e2d\uff0cWar3 \u91cd\u5236\u7248\u88ab\u73a9\u5bb6\u5237\u5230\u4e86 0.5 \u5206\u3002</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-4366c320791b6a43fbd39a8f85b5674e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"356\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-4366c320791b6a43fbd39a8f85b5674e_r.jpg\"></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-eb64c2e1946c4d61228d50e76db34a97_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"680\" data-rawheight=\"222\" class=\"origin_image zh-lightbox-thumb\" width=\"680\" data-original=\"https://pic1.zhimg.com/v2-eb64c2e1946c4d61228d50e76db34a97_r.jpg\"></figure><p>War3 \u9ad8\u6e05\u91cd\u5236\u7248\u4f1a\u4e0d\u4f1a\u662f\u66b4\u96ea\u53e3\u7891\u4e0b\u6ed1\u7684\u5f00\u59cb\uff1f</p>",
+			"answer_count": 410,
+			"bound_topic_ids": [1609, 730, 4392, 378485, 198116],
+			"comment_count": 47,
+			"is_following": false,
+			"question_type": "normal",
+			"follower_count": 1065,
+			"type": "question",
+			"id": 368788100
+		},
+		"show_actor_time": true,
+		"action_text_tpl": "{}\u5173\u6ce8\u4e86\u95ee\u9898",
+		"brief": "{\"source\": \"TS\", \"type\": \"question\", \"id\": 368788100}",
+		"updated_time": 1580698247,
+		"verb": "MEMBER_FOLLOW_QUESTION",
+		"actors": [{
+			"is_followed": false,
+			"type": "people",
+			"name": "\u9759\u6613\u58a8",
+			"headline": "\u516c\u4f17\u53f7\uff1a\u9759\u6613\u58a8\uff08jingyimo456\uff09",
+			"url_token": "jingyimo",
+			"user_type": "people",
+			"vip_info": {
+				"is_vip": true,
+				"vip_icon": {
+					"url": "https://pic3.zhimg.com/50/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png",
+					"night_mode_url": "https://pic3.zhimg.com/50/v2-c9686ff064ea3579730756ac6c289978_r.png"
+				}
+			},
+			"url": "https://api.zhihu.com/people/f81831bea44f2c027bf662268bf760b2",
+			"avatar_url": "https://pic3.zhimg.com/50/v2-e25f2a01779b031d1cb0a5352058441e_s.jpg",
+			"is_following": false,
+			"is_org": false,
+			"gender": 1,
+			"badge": [],
+			"id": "f81831bea44f2c027bf662268bf760b2"
+		}],
+		"attached_info": "Cn4ItN6Zjr6m87RiEAMaCDQ0MjMwNTkxIIrrzvEFMC84qQhABEoRCgFNEgg0NTYzOTY5OBgAIABSFm1lbWJlcl9mb2xsb3dfcXVlc3Rpb25yCTM2ODc4ODEwMHgAqgEGZm9sbG93sgEIdGltZWxpbmW6AQxzdWJzY3JpcHRpb24=",
+		"offset": 4,
+		"created_time": 1580698247,
+		"type": "feed",
+		"id": "4_1580892000.81"
+	}, {
+		"count": 1,
+		"uninterest_reasons": [{
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19554449",
+			"reason_text": "\u6570\u636e",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19551077",
+			"reason_text": "\u5386\u53f2",
+			"object_type": "topic"
+		}, {
+			"reason_type": "creator",
+			"reason_id": 2,
+			"object_token": "f9de84865e3e8455a09af78bfe4d1da5",
+			"reason_text": "\u5f20\u4f73\u73ae\u521b\u4f5c\u7684\u5185\u5bb9",
+			"object_type": "people"
+		}],
+		"target": {
+			"updated": 1580549181,
+			"author": {
+				"is_followed": false,
+				"type": "people",
+				"name": "\u5f20\u4f73\u73ae",
+				"headline": "\u516c\u4f17\u53f7\uff1a\u5f20\u4f73\u73ae\u5199\u5b57\u7684\u5730\u65b9",
+				"url_token": "zhang-jia-wei",
+				"user_type": "people",
+				"vip_info": null,
+				"url": "https://api.zhihu.com/people/f9de84865e3e8455a09af78bfe4d1da5",
+				"avatar_url": "https://pic2.zhimg.com/50/v2-d626957872f9b38fa594394db2d2e6e7_s.jpg",
+				"is_following": false,
+				"is_org": false,
+				"gender": 1,
+				"badge": [{
+					"topics": [],
+					"topic_names": ["NBA", "\u7bee\u7403", "\u6587\u5b66"],
+					"type": "best_answerer",
+					"description": "\u4f18\u79c0\u56de\u7b54\u8005"
+				}],
+				"id": "f9de84865e3e8455a09af78bfe4d1da5"
+			},
+			"excerpt": "\u201c\u652f\u6301\u60a8\u7684\u4eba\u670998%\uff01\u201d\u201c\u4e0d\uff0c\u652f\u6301\u60a8\u7684\u4eba\u53ea\u67095%\uff01\u201d\u4efb\u4f55\u6b63\u5e38\u4eba\u542c\u5230\u8fd9\u7ec4\u5bf9\u6bd4\uff0c\u90fd\u4f1a\u5413\u6b7b\u5427\uff1f \u4e0a\u9762\u8fd9\u4e2a\u6545\u4e8b\uff0c\u51fa\u4e8e\u300a\u5be1\u5934\u300b\u3002\u636e\u8bf4\u662f1996\u5e74\u6625\u5929\u7684\u4e8b\uff1a\u53f6\u5229\u94a6\u5148\u751f\u81ea\u4fe1\u6ee1\u6ee1\uff0c\u9884\u5907\u53c2\u9009\u603b\u7edf\u3002\u4ed6\u8eab\u8fb9\u7684\u4eba\u90fd\u544a\u8bc9\u4ed6\uff1a\u60a8\u670998%\u7684\u652f\u6301\u7387\u5462\uff0c\u5168\u4fc4\u4eba\u6c11\u7231\u6234\u60a8\u3002\u4f46\u5f53\u65f6\u638c\u63e1\u5927\u4fc4\u7684\u8bf8\u4f4d\u5546\u4e1a\u5be1\u5934\u660e\u767d\u771f\u76f8\uff0c\u8ddf\u53f6\u5229\u94a6\u644a\u724c\u3002\u5927\u4fc4\u79c1\u6709\u5316\u4e4b\u7236\u3001\u5f53\u65f6\u7684\u526f\u603b\u4e18\u62dc\u65af\u76f4\u767d\u5730\u8bf4\uff1a\u201c\u4f60\u7684\u5f62\u52bf\u4e0d\u5bb9\u4e50\u89c2\uff0c\u4f60\u7684\u652f\u6301\u7387\u53ea\u67095%\u3002\u201d\u5728\u573a\u7684\u4f20\u5a92\u5927\u4ea8\u53e4\u8f9b\u65af\u57fa\u56de\u5fc6\u8bf4\uff0c\u53f6\u5229\u94a6\u6839\u672c\u2026",
+			"id": 104608826,
+			"voteup_count": 4615,
+			"upvoted_followees": [],
+			"created": 1580549181,
+			"url": "https://zhuanlan.zhihu.com/p/104608826",
+			"comment_permission": "all",
+			"title": "\u6211\u4eec\u6240\u77e5\u7684\u6570\u636e\uff0c\u6709\u591a\u5c11\u662f\u771f\u5b9e\u7684\u5462\uff1f",
+			"preview_type": "default",
+			"content": "<p>\u201c\u652f\u6301\u60a8\u7684\u4eba\u670998%\uff01\u201d</p><p>\u201c\u4e0d\uff0c\u652f\u6301\u60a8\u7684\u4eba\u53ea\u67095%\uff01\u201d</p><p>\u4efb\u4f55\u6b63\u5e38\u4eba\u542c\u5230\u8fd9\u7ec4\u5bf9\u6bd4\uff0c\u90fd\u4f1a\u5413\u6b7b\u5427\uff1f</p><p><br></p><p>\u4e0a\u9762\u8fd9\u4e2a\u6545\u4e8b\uff0c\u51fa\u4e8e\u300a\u5be1\u5934\u300b\u3002</p><p>\u636e\u8bf4\u662f1996\u5e74\u6625\u5929\u7684\u4e8b\uff1a\u53f6\u5229\u94a6\u5148\u751f\u81ea\u4fe1\u6ee1\u6ee1\uff0c\u9884\u5907\u53c2\u9009\u603b\u7edf\u3002</p><p>\u4ed6\u8eab\u8fb9\u7684\u4eba\u90fd\u544a\u8bc9\u4ed6\uff1a\u60a8\u670998%\u7684\u652f\u6301\u7387\u5462\uff0c\u5168\u4fc4\u4eba\u6c11\u7231\u6234\u60a8\u3002</p><p>\u4f46\u5f53\u65f6\u638c\u63e1\u5927\u4fc4\u7684\u8bf8\u4f4d\u5546\u4e1a\u5be1\u5934\u660e\u767d\u771f\u76f8\uff0c\u8ddf\u53f6\u5229\u94a6\u644a\u724c\u3002</p><p>\u5927\u4fc4\u79c1\u6709\u5316\u4e4b\u7236\u3001\u5f53\u65f6\u7684\u526f\u603b\u4e18\u62dc\u65af\u76f4\u767d\u5730\u8bf4\uff1a</p><p>\u201c\u4f60\u7684\u5f62\u52bf\u4e0d\u5bb9\u4e50\u89c2\uff0c\u4f60\u7684\u652f\u6301\u7387\u53ea\u67095%\u3002\u201d</p><p>\u5728\u573a\u7684\u4f20\u5a92\u5927\u4ea8\u53e4\u8f9b\u65af\u57fa\u56de\u5fc6\u8bf4\uff0c\u53f6\u5229\u94a6\u6839\u672c\u4e0d\u76f8\u4fe1\uff1a</p><p>\u201c\u7edd\u5bf9\u4e0d\u662f\u771f\u7684\uff01\u201d</p><hr><p>\u8fd8\u662f\u51fa\u81ea\u300a\u5be1\u5934\u300b\uff1a</p><p>1980\u5e74\u4ee3\uff0c\u540e\u6765\u7684\u83ab\u65af\u79d1\u5e02\u957f\u5362\u65e5\u79d1\u592b\u7ba1\u7406\u5168\u5e02\u852c\u83dc\u4f9b\u5e94\uff0c\u53d1\u73b0\u56e0\u8150\u70c2\u3001\u53d8\u8d28\u3001\u76d7\u7a83\u7b49\u5f15\u53d1\u7684\u852c\u83dc\u635f\u6bc1\u7387\u8d85\u8fc730%\u3002</p><p>\u4f46\u62a5\u4e0a\u53bb\u7684\u6570\u636e\u662f\uff1a1%\u3002</p><p><br></p><p>\u4e3a\u4e86\u63d0\u9ad8\u4e0b\u5934\u7684\u79ef\u6781\u6027\uff0c\u907f\u514d\u4e0b\u5934\u5077\u7a83\u6216\u758f\u61d2\uff0c\u5362\u65e5\u79d1\u592b\u60f3\u4e86\u70b9\u6cd5\u5b50\uff0c\u5176\u4e2d\u4e00\u4e2a\u662f\uff1a</p><p>\u53ea\u8981\u635f\u6bc1\u7387\u4f4e\u4e8e30%\uff0c\u591a\u51fa\u6765\u7684\u4efd\u989d\uff0c\u7ba1\u4e8b\u7684\u4eba\u53ef\u4ee5\u5206\u7ea2\u4e00\u534a\u2014\u2014\u201c\u7ed9\u4f60\u4eec\u70b9\u751c\u5934\uff01\u201d</p><p>\u8fd9\u4e3e\u63aa\u7acb\u7aff\u89c1\u5f71\uff0c\u852c\u83dc\u6c34\u5e73\u63d0\u9ad8\u4e86\u3002</p><p>\u5f53\u7136\u906d\u9047\u4e86\u6279\u5224\u3002\u4f46\u53d6\u6d88\u8fd9\u4e2a\u884c\u52a8\u518d\u5982\u5b9e\u7533\u62a5\uff0c\u4e5f\u4e0d\u5bf9\u52b2\uff0c\u56e0\u4e3a\u4f1a\u88ab\u8ffd\u95ee\uff1a</p><p>\u201c\u4e4b\u524d\u4e0d\u8fd8\u8001\u8bf4\u852c\u83dc\u635f\u6bc1\u7387\u4e0d\u52301%\u5417\uff1f\uff01\u600e\u4e48\u5ffd\u7136\u53d8\u5dee\u4e86\uff1f\uff01\u201d</p><hr><p>\u59d1\u4e14\u4e0d\u8bba\u662f\u4e0d\u662f\u771f\u7684\u5427\uff0c\u5c31\u5f53\u4e2a\u6545\u4e8b\u542c\uff0c\u4e5f\u5f88\u6709\u9053\u7406\uff1a</p><p>\u4e00\u5f00\u59cb\u7f16\u4e86\u8c0e\u8bdd\uff0c\u5c31\u5f97\u4e00\u76f4\u5706\u4e0b\u53bb\u3002</p><p>\u4e00\u65e6\u626f\u7834\u4e86\uff0c\u5c31\u9ebb\u70e6\u4e86\u3002</p><p>\u852c\u83dc\u8fd8\u662f\u5c0f\u4e8b\uff0c\u5927\u4e0d\u4e86\u5c11\u5403\u4e00\u53e3\u3002</p><p>\u5982\u679c\u5728\u5176\u4ed6\u751f\u6b7b\u6538\u5173\u7684\u95ee\u9898\u4e0a\uff0c\u6709\u73af\u8282\u865a\u62a5\u7792\u62a5\uff0c\u90a3\u540e\u679c\u5c31\u4e25\u91cd\u5f97\u591a\u4e86\u3002</p><p><br></p><hr><p>\u4f26\u7eb3\u5fb7\u00b7\u5df4\u4f2f\u5148\u751f\u5199\u8fc7\uff0c\u79d1\u5b66\u53d1\u5c55\u662f\u5bf9\u793e\u4f1a\u6709\u76ca\u7684\uff1a\u56e0\u4e3a\u79d1\u5b66\u4f7f\u9884\u6d4b\u4e0e\u63a7\u5236\u6210\u4e3a\u53ef\u80fd\u3002</p><p>\u7406\u8bba\u4e0a\uff0c\u7684\u786e\u5982\u6b64\u3002\u53ea\u8981\u5c06\u7edf\u8ba1\u6240\u5f97\u7684\u6570\u636e\u6536\u96c6\u3001\u6574\u7406\u3001\u5408\u7406\u5206\u6790\u3001\u8fdb\u884c\u9884\u5224\uff0c\u662f\u80fd\u89e3\u51b3\u5927\u591a\u6570\u95ee\u9898\u7684\u3002</p><p>\u79d1\u6280\u7684\u63d0\u5347\uff0c\u8ba9\u7d27\u6025\u60c5\u62a5\u4e0d\u5fc5\u518d\u516b\u767e\u91cc\u9a7f\u9a6c\uff0c\u800c\u53ea\u9700\u8981\u6572\u6253\u51e0\u4e0b\u952e\u76d8\u5373\u53ef\u3002</p><p><br></p><p>\u4f46\u662f\u5462\u2026\u2026\u7edf\u8ba1\u3001\u53d1\u73b0\u3001\u4f20\u9012\u4fe1\u606f\u4e4b\u540e\uff0c\u51b3\u5b9a\u5982\u4f55\u5904\u7406\u4fe1\u606f\u7684\uff0c\u7ec8\u7a76\u662f\u4eba\u3002</p><p>\u73af\u8282\u4e00\u591a\uff0c\u5c31\u5bb9\u6613\u51fa\u95ee\u9898\u4e86\u3002</p><hr><p>\u9996\u5148\uff0c\u6570\u636e\u4e0d\u4e00\u5b9a\u662f\u771f\u7684\u3002</p><p>\u4e2d\u56fd\u4e00\u4e2a\u540d\u6545\u4e8b\uff0c\u6307\u9e7f\u4e3a\u9a6c\u3002\u8fd9\u6545\u4e8b\u4e00\u822c\u7528\u6765\u63cf\u8ff0\u79e6\u4e8c\u4e16\u660f\u5eb8\u3001\u8d75\u9ad8\u8dcb\u6248\uff0c\u7136\u800c\u8fd9\u6b21\u884c\u52a8\uff0c\u4e5f\u662f\u8d75\u9ad8\u7684\u670d\u4ece\u6027\u6d4b\u8bd5\u3002</p><p>\u8d75\u9ad8\u5f53\u65e5\u6307\u9e7f\u4e3a\u9a6c\u65f6\uff0c\u6709\u9644\u548c\u4ed6\u8bf4\u662f\u9a6c\u7684\uff0c\u4e5f\u6709\u76f4\u8a00\u8bf4\u8fd9\u662f\u9e7f\u7684\u2014\u2014\u4e4b\u540e\uff0c\u8d75\u9ad8\u628a\u8bf4\u662f\u9e7f\u7684\u90fd\u7ed9\u4fee\u7406\u4e86\u4e00\u904d\u3002</p><p>\u540e\u6765\u8d75\u9ad8\u6d3e\u4eba\u780d\u79e6\u4e8c\u4e16\u65f6\uff0c\u65e0\u4eba\u53ef\u6321\uff1b\u79e6\u4e8c\u4e16\u95ee\u4e00\u4e2a\u8fd1\u4f8d\uff1a\u8d75\u9ad8\u8981\u53cd\uff0c\u4f60\u600e\u4e48\u4e0d\u65e9\u70b9\u544a\u8bc9\u6211</p><p>\u8fd1\u4f8d\u7b54\uff1a\u6211\u4e0d\u544a\u8bc9\u60a8\uff0c\u624d\u5f97\u5468\u5168\uff1b\u65e9\u544a\u8bc9\u60a8\uff0c\u90a3\u6211\u65e9\u6b7b\u4e86\uff0c\u54ea\u8fd8\u6d3b\u5f97\u5230\u73b0\u5728\uff1f</p><p><br></p><p>\u2014\u2014\u6240\u4ee5\u4e86\uff0c\u79e6\u4e8c\u4e16\u8eab\u4e3a\u5929\u5b50\uff0c\u6240\u770b\u5230\u7684\u6570\u636e\uff0c\u4e5f\u6709\u8bb8\u591a\u662f\u5047\u7684\u5440\u3002</p><p>\u53ef\u89c1\u5386\u53f2\u4e0a\u8bb8\u591a\u660f\u541b\uff0c\u672a\u5fc5\u662f\u8822\uff0c\u800c\u7eaf\u7cb9\u662f\u4fe1\u606f\u4e0d\u5bf9\u7b49\u3002</p><p><br></p><p>\u738b\u5c0f\u6ce2\u8bf4\u8fc7\u4e2a\u6bb5\u5b50\uff1a\u4e2d\u4e9a\u53e4\u56fd\u82b1\u524c\u5b50\u6a21\u7684\u98ce\u4fd7\uff0c\u51e1\u662f\u7ed9\u541b\u738b\u5e26\u6765\u597d\u6d88\u606f\u7684\u4fe1\u4f7f\uff0c\u5c31\u4f1a\u5f97\u5230\u63d0\u5347\uff0c\u7ed9\u541b\u738b\u5e26\u6765\u574f\u6d88\u606f\u7684\u4eba\uff0c\u5219\u4f1a\u88ab\u9001\u53bb\u5582\u8001\u864e\u3002</p><p>\u5982\u6b64\uff0c\u81ea\u7136\u6ca1\u6709\u771f\u5b9e\u6570\u636e\u4e86\u3002</p><p>\u8fd9\u4e8b\u5176\u5b9e\u81ea\u53e4\u7686\u7136\u3002</p><p>\u4e09\u56fd\u65f6\u6709\u4e00\u4f4d\u53eb\u56fd\u6e0a\u7684\uff0c\u5176\u8457\u540d\u4e8b\u8ff9\u5c45\u7136\u662f\uff1a\u4e0d\u5439\u725b\uff0c\u5982\u5b9e\u5411\u66f9\u64cd\u4e0a\u62a5\u519b\u529f\uff0c\u5c45\u7136\u8f7d\u4e4b\u53f2\u518c\u3002</p><p>\u53ea\u56e0\u4e3a\u5f53\u65f6\u62a5\u65a9\u83b7\u6570\u5b57\uff0c\u4ee5\u4e00\u4e3a\u5341\uff0c\u6570\u5b57\u90fd\u8981\u52a0\u4e2a\u96f6\u7684\uff1b\u6240\u4ee5\u56fd\u6e0a\u8fd9\u6837\u4e0d\u865a\u62a5\uff0c\u5df2\u7ecf\u7b97\u9ad8\u5c1a\u4e86\u3002</p><hr><p>\u5176\u6b21\uff0c\u6570\u636e\u4e0d\u4e00\u5b9a\u80fd\u53ca\u65f6\u5904\u7406\u3002</p><p>\u5f20\u5efa\u4e9a\u5bfc\u6f14\u7684\u300a\u4e09\u6bdb\u4ece\u519b\u8bb0\u300b\u91cc\u5934\uff0c\u5e08\u957f\u9519\u8fc7\u4e86\u7d27\u6025\u60c5\u62a5\uff0c\u4e8e\u662f\u5bf9\u4e09\u6bdb\u6012\u543c\u3002</p><p>\u4e09\u6bdb\uff1a\u201c\u6211\u627e\u8fc7\u4f60\uff0c\u662f\u4f60\u8bf4\u518d\u8bae\u7684\u2026\u2026\u201d</p><p>\u518d\u8bae\uff0c\u5c31\u662f\u518d\u8bae\u8bba\u8bae\u8bba\uff0c\u518d\u7814\u7a76\u7814\u7a76\uff0c\u518d\u5546\u91cf\u5546\u91cf\uff0c\u518d\u6743\u8861\u6743\u8861\uff0c\u518d\u6bd4\u8f83\u6bd4\u8f83\uff0c\u518d\u8003\u8651\u8003\u8651\uff0c\u518d\u89c2\u5bdf\u89c2\u5bdf\u3002\u518d\u770b\u770b\u518d\u60f3\u60f3\u518d\u7b49\u7b49\uff0c\u7b49\u7b49\u7b49\u7b49\u2026\u2026</p><p>\u7136\u540e\u5c31\uff0c\u55ef\u3002</p><hr><p>\u4f17\u6240\u5468\u77e5\uff0c\u4eba\u4e8b\u7ba1\u7406\uff0c\u65e0\u975e\u8d4f\u529f\u7f5a\u7f6a\u3002</p><p>\u6570\u636e\u597d\u7684\u5f97\u529f\u52b3\uff0c\u6570\u636e\u5dee\u7684\u6ca1\u673a\u4f1a\uff1a\u8fd9\u6837\u624d\u6709\u79ef\u6781\u6027\uff0c\u8fd9\u6837\u624d\u6709\u6548\u7387\u3002\u6548\u7387\u81f3\u4e0a\u8005\uff0c\u5927\u6982\u90fd\u5f88\u559c\u6b22\u8fd9\u4e2a\u3002</p><p>\u4f46\u6211\u4eec\u4e5f\u90fd\u77e5\u9053\u90a3\u53e5\u8bdd\uff1a\u8d44\u672c\u5bb6\u4e3a\u4e86300%\u7684\u5229\u76ca\uff0c\u5c31\u6562\u505a\u4eba\u4e16\u95f4\u4e00\u5207\u7f6a\u6076\u3002</p><p>\u7c7b\u4f3c\u7684\u903b\u8f91\uff0c\u5982\u679c\u865a\u62a5\u597d\u6570\u636e\u3001\u7792\u62a5\u574f\u6570\u636e\uff0c\u5ef6\u5b95\u5904\u7406\u3001\u62d6\u6c93\u6577\u884d\uff0c\u53ef\u4ee5\u8c0b\u5f97\u5229\u76ca\u3001\u51b3\u5b9a\u4eba\u751f\u4e43\u81f3\u5bb6\u65cf\u7684\u672a\u6765\uff0c\u90a3\u60a8\u731c\uff0c\u6709\u6ca1\u6709\u4e2d\u95f4\u73af\u8282\u7684\u4eba\uff0c\u4f1a\u63a7\u5236\u9690\u7792\u6570\u636e\u5462\uff1f</p><p><br></p><p>\u8bb8\u591a\u4e8b\uff0c\u53ef\u4ee5\u5f52\u548e\u5728\u7792\u62a5\u6216\u5ef6\u5b95\u6570\u636e\u7684\u4e2a\u4f53\u8eab\u4e0a\u3002\u4f46\u81ea\u53e4\u53ca\u4eca\uff0c\u7c7b\u4f3c\u5c42\u5c42\u91cd\u53e0\u7684\u6743\u7ea7\uff0c\u90fd\u5f88\u96be\u907f\u514d\u8fd9\u6837\u6b3a\u4e0a\u7792\u4e0b\u7684\u95ee\u9898\uff0c\u8fd9\u4f3c\u4e4e\u5c31\u4e0d\u662f\u4e00\u4e24\u4e2a\u4eba\u7684\u95ee\u9898\u4e86\u5427\uff1f</p><p>\u96be\u9053\uff0c\u662f\u5c01\u95ed\u7684\u590d\u6742\u5c42\u7ea7\uff0c\u5929\u7136\u5bb9\u6613\u51fa\u5404\u79cd\u5047\u6570\u636e\uff0c\u5929\u7136\u5bb9\u6613\u201c\u518d\u8bae\u201d\u4e48\uff1f</p><p>\u4e0d\u77e5\u9053\u54e6\u3002\u2513( \u00b4\u2200` )\u250f</p><hr><p>\u5728\u852c\u83dc\u8150\u70c2\u5ea6\u7684\u6570\u636e\u4e0a\u4f5c\u5047\u5ef6\u5b95\uff0c\u6700\u591a\u8ba9\u5927\u5bb6\u5403\u4e0d\u5230\u597d\u852c\u83dc\u3002</p><p>\u5982\u679c\u5728\u751f\u6b7b\u6538\u5173\u7684\u5927\u4e8b\u4e0a\uff0c\u6570\u636e\u51fa\u4e86\u70b9\u5c0f\u95ee\u9898\uff0c\u63a8\u5ef6\u62d6\u6c93\u4e86\uff0c\u90a3\u5c31\u8981\u4e86\u547d\u4e86\u2014\u2014\u8fd9\u6bb5\u513f\u5404\u8272\u65b0\u95fb\u770b\u4e0b\u6765\uff0c\u5927\u6982\u80fd\u4f53\u4f1a\u5f97\u66f4\u6df1\u523b\u4e86\u5427\u3002</p><p></p><p></p><p></p><p></p>",
+			"column": {
+				"updated": 1436078157,
+				"last_article": {
+					"updated": 1580809895,
+					"created": 1580809895
+				},
+				"author": {
+					"headline": "",
+					"avatar_url": "https://pic4.zhimg.com/aadd7b895_s.jpg",
+					"name": "\u533f\u540d\u7528\u6237",
+					"url": "",
+					"url_token": "",
+					"type": "people",
+					"user_type": "people",
+					"id": "0"
+				},
+				"url": "https://api.zhihu.com/columns/zhangjiawei",
+				"comment_permission": "all",
+				"title": "\u5f20\u4f73\u73ae\u5199\u5b57\u7684\u5730\u65b9",
+				"intro": "",
+				"image_url": "https://pic3.zhimg.com/b69d8ce81_b.jpg",
+				"is_following": false,
+				"type": "column",
+				"id": "zhangjiawei"
+			},
+			"comment_count": 293,
+			"image_url": "",
+			"linkbox": {
+				"url": "",
+				"category": "",
+				"pic": "",
+				"title": ""
+			},
+			"excerpt_new": "\u201c\u652f\u6301\u60a8\u7684\u4eba\u670998%\uff01\u201d \u201c\u4e0d\uff0c\u652f\u6301\u60a8\u7684\u4eba\u53ea\u67095%\uff01\u201d \u4efb\u4f55\u6b63\u5e38\u4eba\u542c\u5230\u8fd9\u7ec4\u5bf9\u6bd4\uff0c\u90fd\u4f1a\u5413\u6b7b\u5427\uff1f \u4e0a\u9762\u8fd9\u4e2a\u6545\u4e8b\uff0c\u51fa\u4e8e\u300a\u5be1\u5934\u300b\u3002 \u636e\u8bf4\u662f1996\u5e74\u6625\u5929\u7684\u4e8b\uff1a\u53f6\u5229\u94a6\u5148\u751f\u81ea\u4fe1\u6ee1\u6ee1\uff0c\u9884\u5907\u53c2\u9009\u603b\u7edf\u3002 \u4ed6\u8eab\u8fb9\u7684\u4eba\u90fd\u544a\u8bc9\u4ed6\uff1a\u60a8\u670998%\u7684\u652f\u6301\u7387\u5462\uff0c\u5168\u4fc4\u4eba\u6c11\u7231\u6234\u60a8\u3002 \u4f46\u5f53\u65f6\u638c\u63e1\u5927\u4fc4\u2026",
+			"excerpt_title": "",
+			"preview_text": "",
+			"voting": 0,
+			"type": "article"
+		},
+		"show_actor_time": true,
+		"action_text_tpl": "{}\u8d5e\u540c\u4e86\u6587\u7ae0",
+		"brief": "{\"source\": \"TS\", \"type\": \"article\", \"id\": 104608826}",
+		"updated_time": 1580672647,
+		"verb": "MEMBER_VOTEUP_ARTICLE",
+		"actors": [{
+			"is_followed": false,
+			"type": "people",
+			"name": "\u5927\u5934\u5e2e\u4e3b",
+			"headline": "\u5e73\u751f\u6700\u6068\u5c0f\u5934\u4eba",
+			"url_token": "da-tou-bang-zhu",
+			"user_type": "people",
+			"vip_info": {
+				"is_vip": true,
+				"vip_icon": {
+					"url": "https://pic3.zhimg.com/50/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png",
+					"night_mode_url": "https://pic3.zhimg.com/50/v2-c9686ff064ea3579730756ac6c289978_r.png"
+				}
+			},
+			"url": "https://api.zhihu.com/people/5a30e02044ba1198cac3a9183464f41a",
+			"avatar_url": "https://pic3.zhimg.com/50/085f36ce4_s.jpg",
+			"is_following": false,
+			"is_org": false,
+			"gender": 1,
+			"badge": [{
+				"topics": [],
+				"topic_names": ["\u5efa\u7b51\u8bbe\u8ba1"],
+				"type": "best_answerer",
+				"description": "\u4f18\u79c0\u56de\u7b54\u8005"
+			}],
+			"id": "5a30e02044ba1198cac3a9183464f41a"
+		}],
+		"attached_info": "CpEBCLTemY6+pvO0YhAHGgkxMTEzNzY4MDAgvYjV8QUohyQwpQJABUoQCgFNEgcxMTY2Nzg0GAAgAFIVbWVtYmVyX3ZvdGV1cF9hcnRpY2xlWgMxNTRyCTEwNDYwODgyNngAigELemhhbmdqaWF3ZWmqAQZmb2xsb3eyAQh0aW1lbGluZboBDHN1YnNjcmlwdGlvbg==",
+		"offset": 5,
+		"created_time": 1580672647,
+		"type": "feed",
+		"id": "5_1580892000.81"
+	}, {
+		"count": 1,
+		"uninterest_reasons": [{
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "20176368",
+			"reason_text": "\u75c5\u6bd2\u611f\u67d3",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "20333929",
+			"reason_text": "\u51a0\u72b6\u75c5\u6bd2",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "19636234",
+			"reason_text": "\u751f\u7269\u75c5\u6bd2",
+			"object_type": "topic"
+		}, {
+			"reason_type": "topic",
+			"reason_id": 3,
+			"object_token": "20013225",
+			"reason_text": "\u6d41\u884c\u75c5",
+			"object_type": "topic"
+		}, {
+			"reason_type": "creator",
+			"reason_id": 2,
+			"object_token": "98e03cb463203cd46d782beeefa7a0dc",
+			"reason_text": "lilis \u521b\u4f5c\u7684\u5185\u5bb9",
+			"object_type": "people"
+		}],
+		"target": {
+			"relevant_info": {
+				"relevant_type": "",
+				"is_relevant": false,
+				"relevant_text": ""
+			},
+			"relationship": {
+				"voting": 0,
+				"is_thanked": false,
+				"is_nothelp": false,
+				"upvoted_followee_ids": []
+			},
+			"mark_infos": [],
+			"excerpt": "\u6211\u53ef\u80fd\u8981\u7b54\u975e\u6240\u95ee\uff0c\u4f46\u770b\u7740\u8fd9\u4e2a\u95ee\u9898\u7684\u9010\u6e10\u53d1\u9175\uff0c\u611f\u6168\u5f88\u591a\u3002\u8fd9\u4e2a\u95ee\u9898\u76ee\u524d\u7684\u7814\u7a76\u8fdb\u5c55\uff0c\u5173\u4e8e\u63d0\u51fa\u201c\u4eba\u9020\u8bba\u201d\u7684\u90a3\u7bc7\u5370\u5ea6\u5c0f\u54e5\u7684\u6587\u7ae0\uff0c <a class=\"member_mention\" href=\"http://www.zhihu.com/people/66145f651a78170d65b45ab5e542b04a\" data-hash=\"66145f651a78170d65b45ab5e542b04a\" data-hovercard=\"p$b$66145f651a78170d65b45ab5e542b04a\">@Vigorous Cooler</a> \u9ad8\u8d5e\u5df2\u7ecf\u8bf4\u7684\u5f88\u6e05\u695a\u4e86\uff0c\u4f46\u7684\u786e\u5f88\u591a\u4eba\u90fd\u6ca1\u6709\u770b\u61c2\uff0c\u6216\u8005\u6ca1\u6709\u6ee1\u8db3\u3002\u8fd9\u6b63\u8bc1\u660e\u4e86\u79d1\u5b66\u601d\u7ef4\u63a8\u5e7f\u7684\u56f0\u96be\u6027\u3002\u4e3a\u4ec0\u4e48\u5462\uff1f<b>\u5176\u4e00\uff0c\u79d1\u5b66\u7684\u4e3e\u8bc1\u601d\u7ef4\u3002</b>\u79d1\u5b66\u4e0d\u80fd\u8bc1\u660e\u67d0\u4e2a\u4e1c\u897f\u4e0d\u5b58\u5728\uff0c\u56e0\u4e3a\u90a3\u79cd\u7a77\u4e3e\u662f\u65e0\u5c3d\u5934\u7684\u3002\u6bd4\u5982\u6211\u4eec\u4e0d\u80fd\u8bf4\u201c\u4e0a\u5e1d\u4e0d\u5b58\u5728\u201d\uff0c\u6211\u4eec\u4e5f\u4e0d\u80fd\u8bc1\u660e\u201c\u8f66\u5e93\u91cc\u7684\u770b\u4e0d\u89c1\u6478\u4e0d\u7740\u7684\u98de\u9f99\u201d\u4e0d\u5b58\u5728\u3002\u6240\u4ee5\u2026",
+			"created_time": 1580636666,
+			"preview_type": "default",
+			"id": 995239370,
+			"is_copyable": true,
+			"author": {
+				"is_followed": false,
+				"type": "people",
+				"name": "lilis",
+				"headline": "\u9ad8\u5174 \u6e05\u9192 \u5065\u5eb7",
+				"url_token": "listeria",
+				"user_type": "people",
+				"vip_info": null,
+				"url": "https://api.zhihu.com/people/98e03cb463203cd46d782beeefa7a0dc",
+				"avatar_url": "https://pic3.zhimg.com/50/v2-a6ec99539e2c388349fa8d389d71fa5e_s.jpg",
+				"is_following": false,
+				"is_org": false,
+				"gender": 0,
+				"badge": [],
+				"id": "98e03cb463203cd46d782beeefa7a0dc"
+			},
+			"url": "https://api.zhihu.com/answers/995239370",
+			"comment_permission": "all",
+			"question": {
+				"author": {
+					"is_followed": false,
+					"type": "people",
+					"name": "\u8c2d\u5148\u751f",
+					"headline": "",
+					"url_token": "yang-xiao-fan-42-97",
+					"user_type": "people",
+					"vip_info": null,
+					"url": "https://api.zhihu.com/people/5e9ec7d5b2e06a0f12590441e4c8dc27",
+					"avatar_url": "https://pic3.zhimg.com/50/v2-6726db97d23d53bf8212d4e702b1a02e_s.jpg",
+					"is_following": false,
+					"is_org": false,
+					"gender": 1,
+					"badge": [],
+					"id": "5e9ec7d5b2e06a0f12590441e4c8dc27"
+				},
+				"title": "\u4e3a\u4ec0\u4e48\u8bf4\u300c\u65b0\u578b\u51a0\u72b6\u75c5\u6bd2\u662f\u4eba\u9020\u7684\u300d\u4e0d\u9760\u8c31\uff1f",
+				"url": "https://api.zhihu.com/questions/367703105",
+				"created": 1579840533,
+				"excerpt": "\u6700\u65b0\u8fdb\u5c55\uff1a\u8be5\u5370\u5ea6\u7814\u7a76\u56e2\u961f\u5df2\u5ba3\u5e03\u64a4\u7a3f\u8bba\u6587\u8f9f\u8c23\uff1a\u65b0\u51a0\u75c5\u6bd2\u4eba\u4e3a\u5236\u9020\uff1f\u5f15\u53d1\u9634\u8c0b\u8bba\u7684\u5370\u5ea6\u795e\u8bba\u6587\u5c06\u64a4\u7a3f",
+				"answer_count": 1405,
+				"bound_topic_ids": [156436, 28767, 264122, 211710, 6140],
+				"comment_count": 158,
+				"is_following": false,
+				"question_type": "normal",
+				"follower_count": 9194,
+				"type": "question",
+				"id": 367703105
+			},
+			"updated_time": 1580643481,
+			"content": "<p>\u6211\u53ef\u80fd\u8981\u7b54\u975e\u6240\u95ee\uff0c\u4f46\u770b\u7740\u8fd9\u4e2a\u95ee\u9898\u7684\u9010\u6e10\u53d1\u9175\uff0c\u611f\u6168\u5f88\u591a\u3002</p><p>\u8fd9\u4e2a\u95ee\u9898\u76ee\u524d\u7684\u7814\u7a76\u8fdb\u5c55\uff0c\u5173\u4e8e\u63d0\u51fa\u201c\u4eba\u9020\u8bba\u201d\u7684\u90a3\u7bc7\u5370\u5ea6\u5c0f\u54e5\u7684\u6587\u7ae0\uff0c <a class=\"member_mention\" href=\"http://www.zhihu.com/people/66145f651a78170d65b45ab5e542b04a\" data-hash=\"66145f651a78170d65b45ab5e542b04a\" data-hovercard=\"p$b$66145f651a78170d65b45ab5e542b04a\">@Vigorous Cooler</a> \u9ad8\u8d5e\u5df2\u7ecf\u8bf4\u7684\u5f88\u6e05\u695a\u4e86\uff0c\u4f46\u7684\u786e\u5f88\u591a\u4eba\u90fd\u6ca1\u6709\u770b\u61c2\uff0c\u6216\u8005\u6ca1\u6709\u6ee1\u8db3\u3002\u8fd9\u6b63\u8bc1\u660e\u4e86\u79d1\u5b66\u601d\u7ef4\u63a8\u5e7f\u7684\u56f0\u96be\u6027\u3002</p><p>\u4e3a\u4ec0\u4e48\u5462\uff1f</p><p><b>\u5176\u4e00\uff0c\u79d1\u5b66\u7684\u4e3e\u8bc1\u601d\u7ef4\u3002</b>\u79d1\u5b66\u4e0d\u80fd\u8bc1\u660e\u67d0\u4e2a\u4e1c\u897f\u4e0d\u5b58\u5728\uff0c\u56e0\u4e3a\u90a3\u79cd\u7a77\u4e3e\u662f\u65e0\u5c3d\u5934\u7684\u3002\u6bd4\u5982\u6211\u4eec\u4e0d\u80fd\u8bf4\u201c\u4e0a\u5e1d\u4e0d\u5b58\u5728\u201d\uff0c\u6211\u4eec\u4e5f\u4e0d\u80fd\u8bc1\u660e\u201c\u8f66\u5e93\u91cc\u7684\u770b\u4e0d\u89c1\u6478\u4e0d\u7740\u7684\u98de\u9f99\u201d\u4e0d\u5b58\u5728\u3002</p><p>\u6240\u4ee5\u5f53\u6709\u4eba\u95ee\uff1a\u201c\u4f60\u80fd\u8bc1\u660e\u7f8e\u56fd\u6ca1\u6709\u4e00\u79cd\u9690\u85cf\u7684\u8d85\u9ad8\u6280\u672f\uff0c\u80fd\u505a\u51fa\u548c\u81ea\u7136\u6f14\u5316\u4e00\u6837\u7684\u4e0d\u80fd\u8bc6\u522b\u4eba\u5de5\u75d5\u8ff9\u7684\u75c5\u6bd2\u5417\uff1f\u201d \u6211\u4eec\u53ea\u597d\u8bf4\uff0c\u201c\u4e0d\u80fd\u8bc1\u660e\u6ca1\u6709\u3002\u201d\u95ee\u51fa\u8fd9\u4e2a\u95ee\u9898\u6765\u7684\u65f6\u5019\uff0c\u6211\u4eec\u4e4b\u95f4\u6709\u610f\u4e49\u7684\u8ba8\u8bba\u5c31\u7ed3\u675f\u4e86\uff0c\u56e0\u4e3a\u8fd9\u662f\u4e2a\u903b\u8f91\u95ed\u73af\u3002</p><p>\u6211\u4eec\u80fd\u8ba8\u8bba\u7684\u53ea\u662f\u4e00\u65b9\u4e3e\u8bc1\uff0c\u518d\u8ba8\u8bba\u8fd9\u4e2a\u8bc1\u636e\u7684\u53ef\u4fe1\u6027\uff0c\u7136\u540e\u5f97\u51fa\u7ed3\u8bba\u66f4\u53ef\u80fd\u662f\u4eba\u5de5\u7684\u8fd8\u662f\u81ea\u7136\u7684\u3002\u6bd4\u5982\u9ad8\u8d5e\u7b54\u6848\u6839\u636e\u5370\u5ea6\u5c0f\u54e5\u8bba\u6587\u8fdb\u884c\u7684\u8ba8\u8bba\u3002\u5370\u5ea6\u5c0f\u54e5\u8bf4\uff1a\u8fd9\u56db\u7247\u7c7b\u4f3cHIV\u7684\u63d2\u5165\u7247\u6bb5\u8bc1\u660e\u5f88\u53ef\u80fd\u662f\u4eba\u5de5\u7684\uff1b\u9ad8\u8d5e\u5c0f\u54e5\u8bf4\uff1a\u4f60\u7684\u8bc1\u636e\u6839\u672c\u4e0d\u5bf9\u5934\uff0c\u8fd9\u56db\u7247\u63d2\u5165\u6570\u636e\u4e0a\u66f4\u63a5\u8fd1\u8759\u8760\u6216\u51a0\u72b6\u75c5\u6bd2\uff0c\u7b26\u5408\u81ea\u7136\u6f14\u5316\u7684\u7279\u5f81\uff0c\u4f60\u7684\u6570\u636e\u68c0\u7d22\u6709\u95ee\u9898\u3002</p><p>\u540c\u7406\uff0c\u4e00\u4e2a\u4eba\u8f7b\u6613\u7684\u4e0b\u7ed3\u8bba\u81ea\u7136\u754c\u201c\u6ca1\u6709\u201d\u67d0\u7269\uff0c\u662f\u503c\u5f97\u8b66\u60d5\u7684\u3002\u4f8b\u5982\u5370\u5ea6\u5c0f\u54e5\u8f7b\u7387\u5730\u8bf4\u51fa\u81ea\u7136\u754c\u6ca1\u6709\u7c7b\u4f3c\u7684\u51a0\u72b6\u75c5\u6bd2\uff0c\u7ed3\u679c\u88ab\u6253\u8138\uff1b\u5f88\u591a\u4eba\u5f15\u7528\u7684\u5f90\u5fb7\u5fe0&lt;\u975e\u5178\u7684\u975e\u81ea\u7136\u8d77\u6e90&gt;\u4e5f\u6709\u7c7b\u4f3c\u7684\u903b\u8f91\uff0c\u901a\u8fc7\u81ea\u7136\u754c\u6ca1\u6709SARS\u8fd9\u6837\u2018\u5f02\u5e38\u2019\u7684\u75c5\u6bd2\u8bc1\u660e\u81ea\u5df1\u7684\"\u4eba\u9020\u89c2\"\u3002\u540e\u6765\uff0c\u5728\u77f3\u6b63\u4e3d\u6559\u6388\u7684\u6eaf\u6e90\u7814\u7a76\u4e2d\uff0c\u8bc1\u660e\u81ea\u7136\u754c\"\u6709\"\u7684\u65f6\u5019\uff0c\u4e5f\u5c31\u8bc1\u660e\u5f90\u5fb7\u5fe0\u7684\u89c2\u70b9\u662f\u8349\u7387\u548c\u9519\u8bef\u7684\u3002</p><p><b>\u7b80\u800c\u8a00\u4e4b\uff0c\u8c01\u4e3b\u5f20\u8c01\u4e3e\u8bc1\u3002\u8bf4\"\u4eba\u9020\u8bba\"\u7684\u8981\u4e3e\u51fa\u75c5\u6bd2\"\u4eba\u9020\"\u7684\u8bc1\u636e\uff0c\u800c\u4e0d\u80fd\u8bf4\u56e0\u4e3a\u81ea\u7136\u754c\u6ca1\u6709\u6240\u4ee5\u662f\u4eba\u9020\u7684; \u8bf4\"\u81ea\u7136\u8bba\"\u7684\u8981\u4e3e\u51fa\u6709\u8bc1\u636e\u7684\u81ea\u7136\u6eaf\u6e90\u8fc7\u7a0b\u548c\u91cd\u7ec4\u8d77\u6e90\uff0c\u4e0d\u80fd\u8bf4\u5b9e\u9a8c\u5ba4\u6ca1\u6709\u6240\u4ee5\u662f\u81ea\u7136\u7684</b>\u3002</p><p><br></p><p><b>\u5176\u4e8c\uff0c\u79d1\u5b66\u7684\u5f00\u653e\u6027\u548c\u8fdf\u7f13\u6027\u3002</b>\u90a3\u4e48\u76ee\u524d\u60c5\u51b5\u662f\uff0c\u6ca1\u6709\u660e\u786e\u7684\u4eba\u9020\u8bc1\u636e\uff0c\u4e5f\u6ca1\u6709\u4e25\u8c28\u7684\u81ea\u7136\u6eaf\u6e90\u548c\u91cd\u7ec4\u8d77\u6e90\u7814\u7a76\uff0c\u8981\u9009\u62e9\u54ea\u4e00\u4e2a\u5047\u8bbe\uff1f</p><p>\u75c5\u6bd2\u6eaf\u6e90\u662f\u4e00\u4e2a\u4e25\u8083\u7684\u79d1\u5b66\u547d\u9898\uff0c\u5bf9\u6574\u4e2a\u4eba\u7c7b\u7684\u547d\u8fd0\u610f\u4e49\u91cd\u5927\uff0c\u575a\u6301\u5728\u79d1\u5b66\u6846\u67b6\u5185\u8ba8\u8bba\u8fd9\u4e2a\u95ee\u9898\u662f\u6709\u5fc5\u8981\u7684\u3002\u8ba8\u8bba\u79d1\u5b66\u95ee\u9898\u4e0d\u80fd\u60f3\u8c61\u3001\u53ea\u80fd\u4f9d\u9760\u8bd5\u9a8c\u6570\u636e\u3002\u5f88\u591a\u4eba\u770b\u79d1\u7814\u8bba\u6587\u8feb\u5207\u7684\u60f3\u5f97\u5230\u4e00\u4e2a\u786e\u5207\u800c\u7b80\u5355\u7684\u7ed3\u8bba\uff0c\u8ffd\u6c42\u79d1\u666e\u6587\u7ae0\u751a\u81f3\u79d1\u5e7b\u5c0f\u8bf4\u90a3\u79cd\u8305\u585e\u987f\u5f00\u7684\u75db\u5feb\u611f\uff0c\u4f46\u9057\u61be\u7684\u662f\u5927\u90e8\u5206\u79d1\u7814\u8bba\u6587\u90fd\u4e0d\u80fd\uff0c\u56e0\u4e3a\u79d1\u5b66\u7684\u4e25\u8c28\u548c\u5ba2\u89c2\u80dc\u8fc7\u4e00\u5207\uff0c\u5bfc\u81f4\u4e86\u5fc5\u7136\u662f\u8fdf\u7f13\u7684\uff0c\u7ed3\u8bba\u4e5f\u5f80\u5f80\u662f\u4e0d\u5b8c\u7f8e\u7684\u751a\u81f3\u5f00\u653e\u7684\u3002</p><p>\u6240\u4ee5\u77f3\u6b63\u4e3d\u6559\u6388\u56e2\u961fSARS\u6eaf\u6e90\u4e86\u5341\u51e0\u5e74\u4e5f\u53ea\u80fd\u8bf4\u201c\u6211\u4eec\u63ed\u793a\u4e86SARS\u51a0\u72b6\u75c5\u6bd2\u53ef\u80fd\u7684\u91cd\u7ec4\u8d77\u6e90\u3002\u201d \u800c\u4e0d\u80fd\u201c\u75db\u5feb\u800c\u53ca\u65f6\u201d\u7684\u544a\u8bc9\u4f60\u201c\u9707\u60ca\uff01\u8457\u540d\u79d1\u5b66\u5bb6\u8bc1\u660eSARS\u75c5\u6bd2100%\u6765\u6e90\u4e8e\u8759\u8760\uff01\u201d \u79d1\u5b66\u7814\u7a76\u4e0d\u662f\u968f\u4fbf\u5199\u7684\u8425\u9500\u53f7\uff0c\u6570\u636e\u4e0d\u662f\u62cd\u8111\u888b\u6296\u673a\u7075\u5c31\u80fd\u5f97\u5230\u7684\uff0c\u79d1\u5b66\u5bb6\u4e5f\u90fd\u5f88\u201c\u8fdf\u949d\u800c\u6b7b\u677f\u201d\uff0c\u4e00\u4e2a\u4f60\u770b\u4f3c\u7b80\u5355\u7684\u7ed3\u8bba\u5bf9\u4ed6\u4eec\u6765\u8bf4\u53ef\u80fd\u8981\u597d\u51e0\u5e74\u5341\u51e0\u5e74\u7684\u5de5\u4f5c\u624d\u80fd\u5c0f\u5fc3\u7ffc\u7ffc\u7684\u5f97\u51fa\u3002</p><p>\u6240\u4ee5\u73b0\u5728\u8fd9\u4e2a\u65b0\u75c5\u6bd2\u51fa\u6765\uff0c\u5927\u5bb6\u95ee\uff1a\u201c\u4f60\u4eec\u80fd\u4e0d\u80fd\u786e\u5b9a\u5c31\u662f\u81ea\u7136\u6f14\u5316\u75c5\u6bd2\u3002\u201d\u6211\u60f3\u8fd9\u4e5f\u662f\u5f88\u96be\u56de\u7b54\u7684\uff0c\u77ed\u65f6\u95f4\u5c31\u8981\u6c42\u79d1\u7814\u5de5\u4f5c\u8005\u505a\u51fa\u6eaf\u6e90\u5de5\u4f5c\u751a\u81f3\u7ed9\u51fa100%\u7ed3\u8bba\uff0c\u53ea\u80fd\u662f\u903c\u7740\u4eba\u8bf4\u5927\u8bdd\uff0c\u8fdd\u80cc\u79d1\u7814\u9053\u5fb7\u3002</p><p>\u5e78\u8fd0\u7684\u662f\u79d1\u5b66\u5bb6\u4eec\u5df2\u7ecf\u6709\u4e86SARS\u75c5\u6bd2\u5341\u51e0\u5e74\u7684\u6eaf\u6e90\u57fa\u7840\uff0c\u5728\u79ef\u6781\u5f00\u5c55\u76f8\u5173\u5de5\u4f5c\u3002</p><blockquote>1\u670823\u65e5\uff0c\u5728bioRxiv\u9884\u5370\u7248\u5e73\u53f0\u4e0a\uff0c\u4e2d\u56fd\u79d1\u5b66\u9662\u6b66\u6c49\u75c5\u6bd2\u7814\u7a76\u6240\u77f3\u6b63\u4e3d\u56e2\u961f\u53d1\u8868\u4e86\u4e00\u7bc7\u9898\u4e3aDiscovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin\u7684\u6587\u7ae0\uff0c\u8be5\u56e2\u961f\u5728\u6587\u7ae0\u4e2d\u6307\u51fa\uff0c\u6b66\u6c49\u65b0\u578b\u51a0\u72b6\u75c5\u6bd2nCoV-2019\u7684\u5e8f\u5217\u4e0e\u4e00\u79cd\u8759\u8760\u4e2d\u7684\u51a0\u72b6\u75c5\u6bd2\u5e8f\u5217\u4e00\u81f4\u6027\u9ad8\u8fbe96%\uff0c\u4e5f\u5c31\u662f\u8bf4\uff0c\u5f15\u53d1\u6b66\u6c49\u65b0\u578b\u51a0\u72b6\u75c5\u6bd2\u7684\u5bbf\u4e3b\u53ef\u80fd\u4ecd\u7136\u662f\u8759\u8760\u3002</blockquote><p>\u6211\u76f8\u4fe1\u4ed6\u4eec\u8fd9\u6b21\u4f1a\u66f4\u5feb\u3002</p><p>\u79d1\u5b66\u7684\u5f00\u653e\u6027\u5e76\u4e0d\u4ee3\u8868\u6000\u7591\u8bba\u3002\u201c\u6ca1\u6709\u8bc1\u636e\u8bc1\u660e\u662f\u4eba\u9020\u75c5\u6bd2\uff0c\u7b26\u5408\u81ea\u7136\u6f14\u5316\u89c4\u5f8b\u201d \u5bf9\u4e8e\u6211\u4eec\u6765\u8bf4\u662f\u4e2a\u5f88\u91cd\u8981\u7684\u5047\u8bbe\u57fa\u7840\u3002\u6211\u4eec\u4ee5\u6b64\u4e3a\u57fa\u7840\u624d\u80fd\u786e\u5b9a\u75c5\u6bd2\u6eaf\u6e90\u548c\u5176\u4ed6\u76f8\u5173\u7814\u7a76\u7684\u65b9\u5411\uff0c\u52aa\u529b\u4e89\u53d6\u5728\u81ea\u7136\u4e0b\u6b21\u5bf9\u6211\u4eec\u7684\u62a5\u590d\u4e2d\u5360\u5f97\u5148\u673a\u3002<b>\u9009\u62e9\u5c06\u76ee\u524d\u6982\u7387\u4e0a\u6781\u5c0f\u3001\u6ca1\u6709\u4efb\u4f55\u8bc1\u636e\u7684\u201c\u4eba\u9020\u8bba\u201d\uff0c\u8fd8\u662f\u6982\u7387\u5f88\u5927\u3001\u6709Sars\u7684\u6eaf\u6e90\u7814\u7a76\u652f\u6301\u7684\u201c\u81ea\u7136\u8bba\u201d\uff0c\u6211\u60f3\u4e00\u7ebf\u7684\u79d1\u7814\u5de5\u4f5c\u8005\u4f1a\u6709\u6bd4\u8f83\u4e00\u81f4\u7684\u770b\u6cd5\u3002</b></p><p>\u518d\u8bf4\u8bf4\u6211\u5bf9\u6000\u7591\u8bba\u7684\u6001\u5ea6\u3002\"\u5b81\u53ef\u4fe1\u5176\u6709\"\u8fd9\u53e5\u8bdd\u5c31\u662f\u4e2a\u5708\u5957\uff0c\u4f1a\u4e0d\u77e5\u4e0d\u89c9\u8bef\u5bfc\u4eba\u7684\u884c\u4e3a\u3002\u4eba\u7684\u884c\u4e3a\u4e0d\u80fd\u5949\u884c\u4e24\u5957\u4e0d\u540c\u7684\u539f\u5219\uff0c\u79d1\u5b66\u7814\u7a76\u66f4\u4e0d\u80fd\u3002\"\u5b81\u53ef\u4fe1\u5176\u6709\"\u5c31\u662f\u76f8\u4fe1\uff0c\u800c\u4f60\u4fe1\u4e86\u5c31\u4f1a\u88ab\u6270\u4e71\u65b9\u5411\u3002\u4e0d\u5b58\u5728\u65e2\u575a\u6301\"\u81ea\u7136\u8bba\"\u4e3a\u524d\u63d0\uff0c\u53c8\"\u5b81\u53ef\u4fe1\u5176\u6709\"\"\u4eba\u9020\u8bba\"\u7684\u7cbe\u5206\u5f0f\u64cd\u4f5c\u3002\u6211\u4eec\u9009\u62e9\"\u81ea\u7136\u8bba\"\u4f5c\u4e3a\u65b9\u5411\u8fdb\u884c\u7814\u7a76\uff0c\u5c31\u8981\u575a\u6301\u8fd9\u4e2a\u6846\u67b6\uff0c\u5982\u679c\u7814\u7a76\u8fc7\u7a0b\u5f53\u4e2d\u51fa\u73b0\u4e86\u4e0d\u7b26\u5408\"\u81ea\u7136\u8bba\"\u8fd9\u4e2a\u524d\u63d0\u7684\u8bc1\u636e\uff0c\u4f8b\u5982\u610f\u5916\u7684\u51fa\u73b0\"\u4eba\u9020\u8bba\"\u7684\u786e\u5207\u8bc1\u636e\uff0c\u6211\u4eec\u4e5f\u4f1a\u6539\u53d8\u65b9\u5411\u8fdb\u884c\u4ee5\"\u4eba\u9020\u8bba\"\u4e3a\u57fa\u7840\u7684\u7814\u7a76\u548c\u8ba8\u8bba\u3002</p><p>\"<b>\u76f8\u4fe1\"\u662f\u4e00\u79cd\u4e2a\u4eba\u503e\u5411\uff0c\u4f46\u79d1\u5b66\u8ba8\u8bba\u662f\u5ba2\u89c2\u7684\u6982\u7387\u9009\u62e9\u3002\u5c31\u597d\u50cf\u9009\u505a\u4e86\u4e00\u665a\u4e0a\u7ec6\u80de\u8bd5\u9a8c\u7684\u53cc\u9ec4\u8fde\uff0c\u8fd8\u662f\u9009\u8fdb\u5165\u4e09\u671f\u4e34\u5e8a\u7684remdesivir\u3002\u4f60\"\u76f8\u4fe1\"\u53cc\u9ec4\u8fde\uff0c\u8fd8\u662f\"\u9009\u62e9\"Remdesivir?</b></p><p><br></p><p><b>\u5176\u4e09\uff0c\u79d1\u5b66\u7684\u5c40\u9650\u6027\u548c\u65e0\u8da3\u6027\u3002</b>\u79d1\u5b66\u53ea\u80fd\u8d1f\u8d23\u79d1\u5b66\u7684\u4e8b\u60c5\uff0c\u5176\u4ed6\u65b9\u9762\u4e0d\u80fd\u8d1f\u8d23\uff0c\u79d1\u7814\u5de5\u4f5c\u8005\u4e5f\u5fc5\u987b\u53ea\u4e3a\u79d1\u5b66\u547d\u9898\u8d1f\u8d23\u3002\u8ba8\u8bba\u653f\u6cbb\u3001\u7ecf\u6d4e\u3001\u56fd\u9645\u5f62\u52bf\u53ef\u80fd\u5f88\u723d\uff0c\u975e\u5e38\u5bb9\u6613\u5f62\u6210\u4e00\u4e2a\u5b8f\u5927\u800c\u7b80\u5355\u7684\u76f4\u89c2\u903b\u8f91\uff0c\u8ba9\u4eba\u6709\u7eb5\u6a2a\u636d\u9616\u7684\u5feb\u611f\uff0c\u4f46\u5386\u53f2\u7684\u53d1\u5c55\u8bc1\u660e\u771f\u76f8\u5f80\u5f80\u662f\u7410\u788e\u800c\u610f\u5916\u7684\u3002\u56e0\u4e3a\u6211\u4eec\u5904\u4e8e\u4e00\u4e2a\u5de8\u5927\u7684\u590d\u6742\u4f53\u7cfb\uff0c\u6bd4\u8d77\u53ef\u4ee5\u9a8c\u8bc1\u7684\u5ba2\u89c2\u81ea\u7136\u4e8b\u5b9e\uff0c\u4eba\u7684\u793e\u4f1a\u5145\u6ee1\u6ce2\u52a8\u548c\u610f\u5916\u3002\u731c\u6d4b\u56fd\u5bb6\u535a\u5f08\u548c\u4eba\u7c7b\u7684\u611a\u8822\u7a0b\u5ea6\uff1f\u592a\u96be\u4e86\uff0c\u4e5f\u5bf9\u7814\u7a76\u8fdb\u7a0b\u6beb\u65e0\u5e2e\u52a9\u3002</p><p>\u6240\u4ee5\u8bf4\uff0c\u51fa\u4e8e\u653f\u6cbb\u3001\u7ecf\u6d4e\u3001\u4eba\u6027\u52a8\u673a\u63a8\u6d4b\u7684\u7ed3\u8bba\uff0c\u4e0d\u7ba1\u662f\u201c\u56e0\u4e3a\u592a\u8822\u4e86\u6240\u4ee5\u4e0d\u53ef\u80fd\u662f\u4eba\u9020\u201d\u8fd8\u662f\u201c\u56e0\u4e3a\u5229\u76ca\u5f88\u5927\u6240\u4ee5\u5f88\u53ef\u80fd\u662f\u4eba\u9020\u201d\uff0c\u90fd\u662f\u5728\u79d1\u5b66\u6846\u67b6\u5916\uff0c\u662f\u8349\u7387\u800c\u6ca1\u4ec0\u4e48\u5e2e\u52a9\u7684\u3002</p><p>\u8fdb\u9636\u7248\u5c31\u662f\uff0c\u51fa\u4e8e\u80fd\u529b\u63a8\u6d4b\u7684\u7ed3\u8bba\u3002\u5f88\u591a\u4eba\u63d0\u5230\u4e862015\u5e74\u7f8e\u56fd\u201c\u5408\u6210\u75c5\u6bd2\u201d\u7684\u6587\u7ae0\uff0c\u4ee5\u8bc1\u660e\u7f8e\u56fd\u6709\u505a\u51fa\u529f\u80fd\u6027\u83b7\u5f97\u75c5\u6bd2\u7684\u80fd\u529b\u3002\u4e8b\u5b9e\u4e0a\u8fd9\u7bc7\u6587\u7ae0\u662f\u4e2d\u7f8e\u5408\u4f5c\u7684\uff0c\u4e00\u4e9b\u5176\u4ed6\u5730\u65b9\u7684\u4eba\u4e5f\u7528\u5b83\u8bc1\u660e\u4e2d\u56fd\u6709\u505a\u51fa\u7c7b\u4f3c\u7684\u529f\u80fd\u6027\u83b7\u5f97\u75c5\u6bd2\u7684\u80fd\u529b\u3002\u56e0\u4e3a\u4f60\u53ef\u4ee5\u3001\u6240\u4ee5\u4f60\u505a\u4e86\uff0c\u8fd9\u4e5f\u662f\u7eaf\u5c5e\u5f3a\u884c\u63a8\u8bba\u3002</p><p>\u5f53\u7136\u8fd8\u662f\u90a3\u53e5\u8bdd\uff0c\u5982\u679c\u4f60\u613f\u610f\u201c\u76f8\u4fe1\u201d\u201c\u731c\u6d4b\u201d,\u90a3\u4e5f\u5c31\u6ca1\u4ec0\u4e48\u597d\u8ba8\u8bba\u7684\u4e86\u3002</p><p>\u5173\u4e8e\u9634\u8c0b\u8bba\u3002\u4e3a\u4ec0\u4e48\u201c\u4eba\u9020\u8bba\u201d\u88ab\u6307\u4e3a\u9634\u8c0b\u8bba\uff1f\u5e76\u4e0d\u662f\u201c\u75c5\u6bd2\u662f\u4eba\u9020\u7684\u201d\u8fd9\u4e2a\u89c2\u70b9\u672c\u8eab\u662f\u9634\u8c0b\u8bba\uff0c\u8fd9\u76ee\u524d\u53ea\u662f\u4e00\u4e2a\u6ca1\u6709\u8bc1\u636e\u652f\u6301\u7684\u5047\u8bbe\u3002<b>\u9634\u8c0b\u8bba\u662f\u4ee5\u8fd9\u4e2a\u5047\u8bbe\u4e3a\u5f15\u5b50\uff0c\u9644\u52a0\u4e0a\u5927\u91cf\u4e0e\u8fd9\u4e2a\u5047\u8bbe\u6ca1\u6709\u8bc1\u636e\u5173\u8054\u7684\u8054\u60f3\u3001\u8ba8\u8bba\u3001\u62fc\u51d1\u4fe1\u606f\uff0c\u8fd9\u4e9b\u6750\u6599\u4e4b\u95f4\u4e5f\u90fd\u6ca1\u6709\u7262\u56fa\u7684\u8bc1\u636e\u94fe\u6761\u8fde\u63a5\uff0c\u53ea\u662f\u9760\u60f3\u8c61\u548c\u8df3\u8dc3\u903b\u8f91\u5806\u53e0\u5728\u4e00\u8d77\uff0c\u6784\u7b51\u6210\u7684\u5f17\u5170\u80af\u65af\u5766\u4e00\u6837\u7684\u201c\u7406\u8bba\u201d\u3002</b>\u6bd4\u5982\u75c5\u6bd2+\u4e9a\u88d4\u9009\u62e9\u6027+\u7f8e\u56fd+\u8d38\u6613\u6218+P4 \u5b9e\u9a8c\u5ba4\u662f\u4e00\u79cd\uff0c\u518d\u6bd4\u5982\u75c5\u6bd2+\u8001\u5e74\u9009\u62e9\u6027+\u4e2d\u56fd+\u8001\u9f84\u5316 +p4\u5b9e\u9a8c\u5ba4\u662f\u53e6\u4e00\u79cd, \u8111\u6d1e\u591f\u5927\u7684\u8bdd\u8fd8\u53ef\u4ee5\u7ec4\u5408\u51fa\u75c5\u6bd2+\u732a\u761f+\u9e21\u761f+\u4e9a\u9a6c\u900a\u5927\u706b+\u56fd\u9645\u8de8\u56fd\u7d20\u98df\u8089\u96c6\u56e2+\u6781\u7aef\u73af\u4fdd\u7ec4\u7ec7\uff0c\u7b49\u7b49\u7b49\u7b49\u3002\u7ec4\u5408\u8d77\u6765\u7684\u540d\u8bcd\u4e0d\u91cd\u8981\uff0c\u5b83\u4eec\u4e4b\u95f4\u53ea\u8981\u6709\u903b\u8f91\u8df3\u8dc3\u6216\u8005\u7f3a\u4e4f\u8bc1\u636e\u94fe\u6761\u5c31\u662f\u9634\u8c0b\u8bba\u3002\u4f60\u4e5f\u53ef\u4ee5\u7f16\u9020\u201c\u81ea\u7136\u8bba\u201d\u7684\u9634\u8c0b\u8bba\uff0c\u5168\u7403\u53d8\u6696+\u8d85\u7ea7\u75c5\u6bd2+\u6781\u7aef\u73af\u4fdd\u7ec4\u7ec7+\u4eba\u7c7b\u706d\u7edd\u8ba1\u5212\u3002</p><p>\u4e00\u4e2a\u5feb\u901f\u8bc6\u522b\u9634\u8c0b\u8bba\u7684\u65b9\u6cd5\uff1a\u201c\u8fd9\u4e00\u5207\u96be\u9053\u53ea\u662f\u5de7\u5408\u5417\uff1f\u201d\u5f53\u4ed6\u8fd9\u4e48\u8bf4\u7684\u65f6\u5019\uff0c\u5c31\u8bf4\u660e\u4ed6\u76ee\u524d\u6ca1\u6709\u8bc1\u636e\u94fe\u6761\uff0c\u4e5f\u4e0d\u6253\u7b97\u53bb\u627e\u8bc1\u636e\u94fe\u6761\uff0c\u4ed6\u662f\u4e2a\u5f17\u5170\u80af\u65af\u5766\u9634\u8c0b\u8bba\u3002</p><p><b>\u5176\u56db\uff0c\u6c9f\u901a\u7684\u56f0\u96be</b>\u3002\u53cc\u65b9\u7684\u652f\u6301\u8005\u90fd\u6709\u4e00\u90e8\u5206\u5f88\u50b2\u6162\u6216\u8005\u9677\u5165\u81ea\u5df1\u7684\u95ed\u5408\u903b\u8f91\u3002\u5927\u5bb6\u56e0\u4e3a\u5bf9\u65b9\u7684\u50b2\u6162\u800c\u5bf9\u7acb\u8d77\u6765\uff0c\u5ffd\u7565\u4e86\u6709\u610f\u4e49\u7684\u8ba8\u8bba\uff0c\u603b\u60f3\u7528\u4e00\u4e24\u53e5\u6296\u673a\u7075\u7684\u8bdd\u201c\u78be\u538b\u201d\u5bf9\u65b9\uff0c\u8fd9\u8bdd\u9898\u53c8\u4e0d\u662f\u201c\u4e2d\u56fd\u53e4\u4ee3\u540d\u4fa6\u63a2\u6545\u4e8b\u201d\uff0c\u771f\u5b9e\u4e16\u754c\u54ea\u6709\u8fd9\u4e48\u7b80\u5355\u8f7b\u677e\u7684\u8ba8\u8bba\u3002</p><p>\u6c9f\u901a\u7684\u4e24\u4e2a\u524d\u63d0\u662f\u5f00\u653e\u903b\u8f91\u548c\u4e86\u89e3\u5bf9\u65b9\u7684\u8bed\u8a00\u3002\u4eba\u4eec\u503e\u5411\u4e8e\u76f8\u4fe1\u81ea\u5df1\u61c2\u7684\u4e8b\u60c5\uff0c\u8fd9\u5c31\u662f\u4e3a\u4ec0\u4e48\u8425\u9500\u53f7\u603b\u5728\u717d\u52a8\u60c5\u7eea\uff0c\u56e0\u4e3a\u60c5\u7eea\u662f\u6700\u597d\u61c2\u7684\uff0c\u4f46\u60c5\u7eea\u4e5f\u662f\u6700\u76f2\u76ee\u7684\uff0c\u6240\u4ee5\u6211\u4eec\u4e0d\u770b\u8425\u9500\u53f7\uff0c\u800c\u52aa\u529b\u8fdb\u884c\u5ba2\u89c2\u8ba8\u8bba\u3002\u5bf9\u4e8e\u8fd9\u6837\u95ee\u9898\u7684\u8ba8\u8bba\uff0c\u542c\u4f17\u81f3\u5c11\u8981\u4e86\u89e3\u4e00\u4e9b\u57fa\u672c\u6982\u5ff5\uff0c\u63d0\u51fa\u89c2\u70b9\u7684\u4eba\u4e5f\u8981\u5c3d\u91cf\u89e3\u91ca\u81ea\u5df1\u89c2\u70b9\u4e2d\u542c\u4f17\u4e0d\u61c2\u7684\u90e8\u5206\u3002\u8fd9\u6837\u624d\u80fd\u5f25\u5408\u6c9f\u901a\u7684\u9e3f\u6c9f\u3002\u6bd4\u5982\u53cd\u5411\u9057\u4f20\u5b66\u548c\u57fa\u672c\u7684\u751f\u7269\u6570\u636e\u5206\u6790\u77e5\u8bc6\u5148\u4e86\u89e3\u4e0b\uff0c\u5b66\u672f\u6587\u7ae0\u4e5f\u4e0d\u80fd\u53ea\u770b\u6458\u8981\u548c\u7ed3\u8bba\uff0c\u800c\u8981\u770b\u61c2\u6570\u636e\u3002\u4e0d\u7136\u5c31\u662f\u4fd7\u8bdd\u8bf4\u7684\u201c\u626f\u6de1\u201d\u800c\u5df2\u3002</p><p>\u603b\u4e4b\uff0c\u77e5\u4e4e\u662f\u4e2a\u597d\u5e73\u53f0\uff0c\u6709\u5f88\u591a\u597d\u7684\u7b54\u6848\u548c\u8ba8\u8bba\uff0c\u672c\u4eba\u4e0d\u662f\u76f8\u5173\u80cc\u666f\uff0c\u6240\u4ee5\u66f4\u5e0c\u671b\u6211\u5173\u5fc3\u7684\u8fd9\u4e2a\u95ee\u9898\u4e5f\u80fd\u6709\u66f4\u591a\u4e13\u4e1a\u3001\u6df1\u523b\u800c\u6709\u610f\u4e49\u7684\u8ba8\u8bba\u3002</p><p><br></p><p>\u9898\u5916\u8bdd\uff0c\u4ece\u6050\u60e7\u611f\u4e0a\u8bb2\uff0c\u6211\u5b81\u613f\u662f\u4eba\u5de5\u505a\u51fa\u7684\u75c5\u6bd2, \u800c\u4e0d\u662f\u5de8\u53d8\u4e2d\u7684\u5927\u81ea\u7136\u6b63\u5728\u5feb\u901f\u884d\u751f\u51fa\u9002\u5e94\u8fc7\u6e21\u7e41\u884d\u7684\u4eba\u7c7b\u7684\u75c5\u6bd2\u3002\u56e0\u4e3a\u524d\u8005\u8bf4\u660e\u8fd8\u53ef\u63a7\u5236\uff0c\u6211\u4eec\u9762\u4e34\u7684\u662f\u4eba\u7c7b\u5185\u90e8\u7684\u77db\u76fe\uff0c\u800c\u540e\u8005\u6211\u4eec\u9762\u4e34\u7684\u5f88\u53ef\u80fd\u662f\u548c\u6c14\u5019\u53d8\u5316\u4e00\u6837\u5de8\u5927\u7684\u4e0d\u53ef\u6297\u529b\u3002</p>",
+			"comment_count": 944,
+			"voteup_count": 5051,
+			"reshipment_settings": "allowed",
+			"thanks_count": 1222,
+			"excerpt_new": "\u6211\u53ef\u80fd\u8981\u7b54\u975e\u6240\u95ee\uff0c\u4f46\u770b\u7740\u8fd9\u4e2a\u95ee\u9898\u7684\u9010\u6e10\u53d1\u9175\uff0c\u611f\u6168\u5f88\u591a\u3002 \u8fd9\u4e2a\u95ee\u9898\u76ee\u524d\u7684\u7814\u7a76\u8fdb\u5c55\uff0c\u5173\u4e8e\u63d0\u51fa\u201c\u4eba\u9020\u8bba\u201d\u7684\u90a3\u7bc7\u5370\u5ea6\u5c0f\u54e5\u7684\u6587\u7ae0\uff0c@Vigorous Cooler\u9ad8\u8d5e\u5df2\u7ecf\u8bf4\u7684\u5f88\u6e05\u695a\u4e86\uff0c\u4f46\u7684\u786e\u5f88\u591a\u4eba\u90fd\u6ca1\u6709\u770b\u61c2\uff0c\u6216\u8005\u6ca1\u6709\u6ee1\u8db3\u3002\u8fd9\u6b63\u8bc1\u660e\u4e86\u79d1\u5b66\u601d\u7ef4\u63a8\u5e7f\u7684\u56f0\u96be\u6027\u3002 \u4e3a\u4ec0\u4e48\u5462\uff1f \u5176\u2026",
+			"preview_text": "",
+			"can_comment": {
+				"status": true,
+				"reason": ""
+			},
+			"type": "answer",
+			"thumbnail": ""
+		},
+		"show_actor_time": true,
+		"action_text_tpl": "{}\u8d5e\u540c\u4e86\u56de\u7b54",
+		"brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 995239370}",
+		"updated_time": 1580671529,
+		"verb": "MEMBER_VOTEUP_ANSWER",
+		"actors": [{
+			"is_followed": false,
+			"type": "people",
+			"name": "\u5927\u5934\u5e2e\u4e3b",
+			"headline": "\u5e73\u751f\u6700\u6068\u5c0f\u5934\u4eba",
+			"url_token": "da-tou-bang-zhu",
+			"user_type": "people",
+			"vip_info": {
+				"is_vip": true,
+				"vip_icon": {
+					"url": "https://pic3.zhimg.com/50/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png",
+					"night_mode_url": "https://pic3.zhimg.com/50/v2-c9686ff064ea3579730756ac6c289978_r.png"
+				}
+			},
+			"url": "https://api.zhihu.com/people/5a30e02044ba1198cac3a9183464f41a",
+			"avatar_url": "https://pic3.zhimg.com/50/085f36ce4_s.jpg",
+			"is_following": false,
+			"is_org": false,
+			"gender": 1,
+			"badge": [{
+				"topics": [],
+				"topic_names": ["\u5efa\u7b51\u8bbe\u8ba1"],
+				"type": "best_answerer",
+				"description": "\u4f18\u79c0\u56de\u7b54\u8005"
+			}],
+			"id": "5a30e02044ba1198cac3a9183464f41a"
+		}],
+		"attached_info": "CpMBCLTemY6+pvO0YhAEGgkyMTEwMTg2NzIg+rPa8QUouycwsAdABkoQCgFNEgcxMTY2Nzg0GAAgAFIUbWVtYmVyX3ZvdGV1cF9hbnN3ZXJaCDQzOTg5ODM4cgk5OTUyMzkzNzB4AIoBCTM2NzcwMzEwNaoBBmZvbGxvd7IBCHRpbWVsaW5lugEMc3Vic2NyaXB0aW9u",
+		"offset": 6,
+		"created_time": 1580671529,
+		"type": "feed",
+		"id": "6_1580892000.82"
+	}]
+}

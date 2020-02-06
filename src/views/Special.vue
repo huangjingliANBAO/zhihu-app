@@ -33,7 +33,7 @@
 			};
 		},
 		created() {
-			this.axios.get('http://localhost:8080/api/special/all').then(res => {
+			this.axios.get(this.$store.state.baseUrl + '/special/all').then(res => {
 				
 				this.special = res.data.data;
 			});
