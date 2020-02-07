@@ -6,9 +6,12 @@
 			<div class="d-flex p-2"  v-if="item.target.thumbnail">
 				<div class="fruid-col-3 mr-3"><img :src="item.target.thumbnail" class="fill tiny-round" /></div>
 				<p class="fruid-col-9 ellipsis-4">{{ item.target.author.name }}:{{ item.target.excerpt }}</p>
+				
+				
 			</div>
 			<div class="d-flex p-2 mb-4"  v-else>
 				<p class="fruid-col-12 ellipsis">{{ item.target.author.name }}:{{ item.target.excerpt }}</p>
+				
 			</div>
 			<ul class="d-flex align-items-center">
 				<button class="d-block blue-txt-btn pl-3 pr-3 link">
@@ -80,15 +83,20 @@ export default {
 	name: 'hot',
 	data() {
 		return {
-			followList: []
+			followList: [],
+				
 		};
 	},
 	created() {
 		this.axios.get('/api/follow').then(res => {
 			this.followList = res.data.data.data;
 			console.log(this.followList);
+			
+		
 		});
 	}
+	
+
 };
 </script>
 <style lang="scss" scoped>

@@ -169,13 +169,13 @@ export default {
 	border-radius: 50%;
 	background-color: #fff;
 }
-.sticky-bar {
+.sticky-bar {	
+}
+.active {
 	position: sticky;
 	bottom: 0;
 	z-index: 1000;
 	background-color: #fff;
-}
-.active {
 	width: 100%;
 	height: 50px;
 	border: 1px solid #ddd;

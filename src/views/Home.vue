@@ -1,9 +1,9 @@
 <template>
 	<div class="container full-height">
 		<div class="d-flex mt-2 justify-content-around">
-			<div class="col-7 tiny-round shadow">
+			<div class="col-8 tiny-round shadow">
 				<div class="img-wrapper">
-					<img src="https://static.zhihu.com/heifetz/assets/NewYear2020Banner.e5ccc19d.png" class="tiny-round mb-1" width="695px" height="95px" />
+					<img src="https://static.zhihu.com/heifetz/assets/NewYear2020Banner.e5ccc19d.png" class="tiny-round mb-1"  />
 				</div>
 				<div class="fill-white border-bottom">
 					<ul class="sub-bar d-flex align-items-center justify-content-around">
@@ -15,7 +15,7 @@
 				<!-- 能记住滚动条的位置，保证良好的体验 -->
 				<keep-alive><router-view /></keep-alive>
 			</div>
-			<div class="col-3 ml-2">
+			<div class="col-4 ml-2">
 				<div class="card fill-white tiny-round mb-2 shadow p-4 d-flex flex-column justify-content-around">
 					<ul class="d-flex">
 						<li class="fruid-col-4 tx-center link">
